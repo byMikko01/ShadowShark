@@ -9,7 +9,6 @@
   "userStatus": "ACTIVE",
   "trafficLimitStrategy": "NO_RESET",
   "links": [
-    "vless://1dc60f16-1593-485e-949d-8459edba6430@92.53.107.193:27129?security=reality&encryption=none&pbk=pqVSxW8Vukd7XiPZUQTd9ADNT2XBrCGJ4q2-7n6kQXQ&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d70393f0ad1c7552#Aera%F0%9F%95%8A%EF%B8%8F%E2%80%A2%20RU%20%F0%9F%87%B7%F0%9F%87%BA",
-    "vless://8a2530a1-2795-469f-8930-8e6115171895@nl.astracat.ru:1234?security=reality&encryption=none&pbk=ttai5o9sL51jx8MWuQA2glnVnVRe0pzZmDbHnTzlynA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=1A2B3C4D5E6F7890#Aera%F0%9F%95%8A%EF%B8%8F%E2%80%A2%20NL%20%F0%9F%87%B3%F0%9F%87%B1"
+    "https://raw.githubusercontent.com/byMikko01/ShadowShark/refs/heads/main/Aera🕊%EF%B8%8F#Aera🕊️"
   ]
-}
+    }
