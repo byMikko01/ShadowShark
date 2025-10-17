@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz"
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
+#EXTM3U url-tvg="http://stb.shara-tv.org/epg/epgtv.xml.gz"
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
