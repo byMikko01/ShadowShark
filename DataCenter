@@ -151,7 +151,6 @@
     }
   }
 }
-
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.101:80?mode=gun&security=none&encryption=none&type=grpc#Serverк%20%231
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.101:80?mode=gun&security=none&encryption=none&type=grpc#Server%20%231
 vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#Server%20%232
 vmess://eyJhZGQiOiI4OS4xNjkuMTMuNjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjlkM2M0MTQtODljYy00NTVkLWI3MTctMTBjN2NhMTY2NWExIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyODgzOCIsInBzIjoiU2VydmVyICMzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
