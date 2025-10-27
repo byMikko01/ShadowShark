@@ -43,19 +43,19 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
 #EXTINF:-1 group-title="Кино",Дом Кино
-http://91.194.191.241:8081/chid84/tracks-v1a1/mono.m3u8
+http://139.28.255.188:8080/domkino/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Родное кино
-http://91.194.191.241:8081/chid471/tracks-v1a1/mono.m3u8
+http://217.25.80.16/Rodnoe_kino/mono.m3u8
 
 #EXTINF:-1 group-title="Кино",Русский бестселлер
 http://46.8.46.14/rubestseller/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Русский детектив
-http://91.194.191.241:8081/chid82/tracks-v1a1/mono.m3u8
+http://iptv46.mcx-ix.ru:8077/rus-detective/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Русский Роман
-http://46.8.46.14/ruroman/index.m3u8
+http://iptv46.mcx-ix.ru:8077/rus-roman/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Viju TV1000 Новелла HD
 http://192.162.64.99:5100/play/a03b/index.m3u8
@@ -192,10 +192,8 @@ http://192.162.64.99:5200/play/a01t/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" catchup="flussonic" catchup-days="1" tvg-id="CineMan Ментовские войны FHD",Ментовские войны
 http://cdn.admuspeh.my/8802/video.m3u8?token=NVbvJ28N26iEqQiP
 
-#EXTINF:-1 group-title="Кинозалы" catchup="flussonic" catchup-days="1",Ментовские войны test
-#EXTVLCOPT:quality=720p
-#EXTVLCOPT:preload="auto"
-http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84ODAyL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjExMDQiLCJ0IjoiNzY4N2MyMTg4M2Y0MTYyNjBjNzI4Y2JkYmE2ODE0MGEiLCJkIjoiNDE2MjQ0IiwiciI6IjQyODIwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4MDIvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
+#EXTINF:-1 group-title="Кинозалы",Ментовские войны
+http://ott.watch/stream/D3FX33QMIH1/477.m3u8
 
 #EXTINF:-1  group-title="Кинозалы" tvg-id="Kernel TV Смешарики HD",Смешарики
 http://cdn.admuspeh.my/9081/video.m3u8?token=NVbvJ28N26iEqQiP
