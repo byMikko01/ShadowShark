@@ -1,1 +1,19 @@
-vless://1@1:1?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=1&sid=8453e5fd9af927#%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2%20%D0%97%D0%90%D0%9A%D0%A0%D0%AB%D0%A2
+{
+  "isFound": true,
+  "user": {
+    "shortUuid": "p5-AbdejEgn83kTu",
+    "daysLeft": 36,
+    "trafficUsed": "7.08 GiB",
+    "trafficLimit": "0",
+    "lifetimeTrafficUsed": "7.08 GiB",
+    "lifetimeTrafficUsedBytes": "7596749807",
+    "trafficLimitBytes": "0",
+    "trafficUsedBytes": "7596749807",
+    "username": "VPNVezdehod_VtpWxwuE7egpnVWZ",
+    "expiresAt": "2025-12-15T15:00:00.000Z",
+    "isActive": true,
+    "userStatus": "ACTIVE",
+    "trafficLimitStrategy": "NO_RESET"
+  },
+  "links": [
+ "vless://bda5e91c-8c56-4914-8b7a-1632d80a3490@nl02-vlr01.tcp-reset-club.net:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1%20Netherl%20%7C%20UltraFast%20%7C%20YT%20%7C%20noP2P"
