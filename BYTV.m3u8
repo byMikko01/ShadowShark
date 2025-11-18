@@ -105,11 +105,8 @@ http://91.207.115.228:5000/c170
 #EXTINF:-1 group-title="Кино",Кино ТВ HD
 http://46.8.46.14/kinotv/index.m3u8
 
-#EXTINF:-1 group-title="Кино",Комедия
-http://tv.ttk.mx:9050
-
 #EXTINF:-1 group-title="Кино",Русский Иллюзион
-http://tv.ttk.mx:9027
+http://91.194.191.241:8081/chid81/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино",Star Family
 http://84.245.224.71/StarFamilyHD/mono.m3u8
@@ -130,7 +127,7 @@ http://91.194.191.241:8081/chid85/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid77/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино",Timeless Dizi Channel
-http://tv.ttk.mx:9189
+http://193.25.8.59:8000/tlc
 
 #EXTINF:-1 group-title="Кино",Amedia 1
 http://91.207.115.228:5000/c55
