@@ -43,10 +43,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
 #EXTINF:-1 group-title="Кино",Дом Кино
-http://91.194.191.241:8081/chid84/tracks-v1a1/mono.m3u8
+http://91.207.115.228:5000/c30
 
 #EXTINF:-1 group-title="Кино",Родное кино
-http://91.194.191.241:8081/chid471/tracks-v1a1/mono.m3u8
+http://91.207.115.228:5000/c31
 
 #EXTINF:-1 group-title="Кино",Русский бестселлер
 http://46.8.46.14/rubestseller/index.m3u8
