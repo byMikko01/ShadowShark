@@ -4,6 +4,7 @@
 
 #EXTINF:-1 tvg-logo="https://clck.ru/3QaMud",ОБНОВЛЕНО 29.11.25🎅
 https://m.vk.com/video-76682514_456239069?t=1s
+
 #EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0927/3f/97c4a661add2af87dcd6339591fd383f.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
