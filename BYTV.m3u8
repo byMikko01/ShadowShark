@@ -3,7 +3,7 @@
 #EXTM3U url-tvg="https://github.com/iFrez/EPG-EdemTV/raw/master/edem.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=d946b2ff0e141cf4401b73c0ae4bf824-5233198-images-thumbs&n=13",ОБНОВЛЕНО 29.11.25 🎅
-https://river-5-514.rtbcdn.ru/hls-vod/aq4Of3ByP8knm3vIt5n19w/1765020373/2466/0x5000c500e883f233/499345ff0e144d608975775940ff219d.mp4/segment-58-v1-a1.ts
+https://rutube.ru/video/4e0f5e8e79490fa9189706c54ca014bd/
 
 #EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0927/3f/97c4a661add2af87dcd6339591fd383f.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
