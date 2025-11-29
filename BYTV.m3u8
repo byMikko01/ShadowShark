@@ -3,7 +3,7 @@
 #EXTM3U url-tvg="https://github.com/iFrez/EPG-EdemTV/raw/master/edem.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://clck.ru/3QaMud",ОБНОВЛЕНО 29.11.25🎅
-https://clck.ru/3QaT3y
+https://rr1---sn-f5f7lnld.c.drive.google.com/videoplayback?expire=1764434094&ei=fvYqafuhIKaD5O0PrL6b0AU&ip=178.129.121.247&id=3812f6f82a7b927e&itag=140&source=webdrive&requiressl=yes&xpc=EghonaK1InoBAQ==&met=1764423294,&mh=gu&mm=32,26&mn=sn-f5f7lnld,sn-c0q7lnz7&ms=su,onr&mv=u&mvi=1&pl=20&rms=su,su&ttl=transient&susc=dr&obr=https://drive.google.com&svpuc=1&driveid=11oR2lrK0D9fKKzRotbr4hGaDoTDJdARj&app=explorer&eaua=49efLvKx0zY&mime=audio/mp4&vprv=1&prv=1&rqh=1&gir=yes&clen=59689977&dur=3688.164&lmt=1764421460373682&mt=1764422364&fvip=2&subapp=DRIVE_WEB_FILE_VIEWER&txp=0000224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,ttl,susc,obr,svpuc,driveid,app,eaua,mime,vprv,prv,rqh,gir,clen,dur,lmt&sig=AJfQdSswRgIhANMNrttzoOmHb16Y9hFtP_RfzL-R43OKLJxkV3vMZVHoAiEA27m5e0zm-Tk07nD0tprFxoZqDsmvwGIzTzad3LSuxy4=&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRAIgZZBuiaKoHLETrjGaaHij1ijPqgUGzRaSG1Lq4yuqyMYCIDudwkVCHzYlWgZkKqMI1il64DMwUm9ljTZ2-hz1nDuE&alr=yes&cpn=G1AIqRxpNTNLqkWb&c=WEB_EMBEDDED_PLAYER&cver=1.20251123.22.00&range=275798-490455&rn=8&rbuf=16041&ump=1&srfvp=1
 
 #EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0927/3f/97c4a661add2af87dcd6339591fd383f.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
