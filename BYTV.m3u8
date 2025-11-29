@@ -175,5 +175,5 @@ http://91.207.115.228:5000/c65
 #EXTINF:-1 group-title="Детские",О!
 http://91.207.115.228:5000/c68
 
-#EXTINF:-1  group-title="Детские" tvg-logo="https://m3u.admuspeh.my/icon/kernel_smeshariki.png" tvg-id="Kernel TV Смешарики HD",Смешарики
+#EXTINF:-1  group-title="Детские",Смешарики
 http://cdn.admuspeh.my/9081/video.m3u8?token=NVbvJ28N26iEqQiP
