@@ -46,16 +46,16 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
 #EXTINF:-1 group-title="Кино",Дом Кино
-http://91.207.115.228:5000/c30
+http://195.191.208.11:8087/udp/238.9.0.42:1234
 
 #EXTINF:-1 group-title="Кино",Родное кино
-http://91.207.115.228:5000/c31
+http://195.191.208.11:8087/udp/238.9.64.12:1234
 
 #EXTINF:-1 group-title="Кино",Русский бестселлер
-http://91.207.115.228:5000/c34
+http://bigteisti2.kfc.lifeyosso.fun:56374/rusbest/video.m3u8
 
 #EXTINF:-1 group-title="Кино",Русский детектив
-http://91.207.115.228:5000/c34
+http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 
 #EXTINF:-1 group-title="Кино",Русский Роман
 http://195.191.208.11:8087/udp/238.9.64.172:1234
