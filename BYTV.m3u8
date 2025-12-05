@@ -2,9 +2,6 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz"
 #EXTM3U url-tvg="https://github.com/iFrez/EPG-EdemTV/raw/master/edem.xml.gz"
 
-#EXTINF:-1 tvg-logo="https://clck.ru/3QaMud",ОБНОВЛЕНО 2.12.25🎅
-https://sajdjasgdhdajadads.m3u8
-
 #EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0927/3f/97c4a661add2af87dcd6339591fd383f.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
@@ -46,76 +43,70 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
 #EXTINF:-1 group-title="Кино",Дом Кино
-http://195.191.208.11:8087/udp/238.9.0.42:1234
+http://95.66.188.74/Dom_kino/mono.m3u8
 
 #EXTINF:-1 group-title="Кино",Родное кино
-http://195.191.208.11:8087/udp/238.9.64.12:1234
+http://mfe02.cliptv.az/dash/Rodnoe_Kino_SDqw45yu.ism/playlist.mpd
 
 #EXTINF:-1 group-title="Кино",Русский бестселлер
-http://bigteisti2.kfc.lifeyosso.fun:56374/rusbest/video.m3u8
+http://31148.rafail1982.uz/Russkiy_Bestseller/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Русский детектив
 http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 
 #EXTINF:-1 group-title="Кино",Русский Роман
-http://195.191.208.11:8087/udp/238.9.64.172:1234
+http://95.66.188.74/RusRoman/mono.m3u8
 
 #EXTINF:-1 group-title="Кино",viju TV1000 русское
-http://195.191.208.11:8087/udp/238.9.0.81:1234
+http://193.25.8.59:8000/TV1000RU
 
 #EXTINF:-1 group-title="Кино",viju TV1000
-http://195.191.208.11:8087/udp/238.2.49.232:1234
+http://193.25.8.59:8000/TV1000
 
 #EXTINF:-1 group-title="Кино",viju TV1000 action
 https://bigteisti2.streaming-elbrus.su:9304/tv1000_action_SD/video.m3u8
 
 #EXTINF:-1 group-title="Кино",Сапфир
-http://195.191.208.11:8087/udp/238.9.64.94:1234
+https://livetv.mylifeisgood.net.ru/channels/saphire.m3u8
 
 #EXTINF:-1 group-title="Кино",Киномикс HD
-http://195.191.208.11:8087/udp/238.9.64.167:1234
+http://95.66.188.74/Kinomiks/mono.m3u8
 
 #EXTINF:-1 group-title="Кино",Киносемья HD
-http://195.191.208.11:8087/udp/238.9.64.13:1234
+http://2.57.217.85:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Кинохит HD
-http://195.191.208.11:8087/udp/238.9.64.33:1234
+http://178.212.71.253:8000/play/123/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Киносвидание
-http://195.191.208.11:8087/udp/238.9.64.11:1234
+http://178.212.71.253:8000/play/122/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Кинопремьера HD
-http://195.191.208.11:8087/udp/238.9.64.183:1234
+http://178.212.71.253:8000/play/125/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Мужское кино
-http://195.191.208.11:8087/udp/238.9.64.209:1234
+http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
 
 #EXTINF:-1 group-title="Кино",Наше Новое Кино
 http://95.66.188.74/NasheNovoeKino/mono.m3u8
 
 #EXTINF:-1 group-title="Кино",Иллюзион+
-https://bigteisti6.streaming-elbrus.su:5671/illyuzionplus_HD/video.m3u8
+http://185.78.112.57:8077/illusion_plus_hd/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Кино ТВ
-http://195.191.208.11:8087/udp/238.2.49.125:1234
+http://31.148.48.15/Kino_TV_HD/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Русский Иллюзион
-http://195.191.208.11:8087/udp/238.9.64.201:1234
+http://195.26.83.96:7006/play/a00y/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Любимое кино
-http://217.21.34.160:38007/lubimoekino/index.m3u8
-
-#EXTINF:-1 group-title="Кино",Star Family
-http://84.245.224.71/StarFamilyHD/mono.m3u8
-
-#EXTINF:-1 group-title="Кино",Star Cinema
-http://84.245.224.71/StarCinemaHD/mono.m3u8
+http://185.78.112.57:8077/LubimoeKino/index.m3u8
 
 #EXTINF:-1 group-title="Кино",.Black
-http://195.191.208.11:8087/udp/238.9.64.235:1234
+http://mfe01.cliptv.az/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd
 
 #EXTINF:-1 group-title="Кино",.Red
-http://195.191.208.11:8087/udp/224.0.90.90:1234
+http://193.25.8.59:8000/set
 
 #EXTINF:-1 group-title="Кино",.Sci-Fi
 http://193.25.8.59:8000/axn
@@ -124,10 +115,10 @@ http://193.25.8.59:8000/axn
 http://193.25.8.59:8000/tlc
 
 #EXTINF:-1 group-title="Кино",Amedia 1
-http://bigteisti1.cdn.lifeyosso.fun:56364/AMEDIA1/tracks-v1a1/mono.m3u8
+http://193.25.8.59:8000/amedia1
 
 #EXTINF:-1 group-title="Кино",Amedia 2
-http://195.191.208.11:8087/udp/238.9.64.95:1234
+http://193.25.8.59:8000/amedia2
 
 #EXTINF:-1 group-title="Кино",START air
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
@@ -147,30 +138,31 @@ http://cdn.admuspeh.my/8893/video.m3u8?token=NVbvJ28N26iEqQiP
 #EXTINF:-1  group-title="Кинозалы" tvg-id="Kernel TV Смешарики HD",Смешарики
 http://cdn.admuspeh.my/9081/video.m3u8?token=NVbvJ28N26iEqQiP
 
-#EXTINF:-1 group-title="Детские" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="karusel-pl2",Карусель
+#EXTINF:-1 group-title="Детские",Карусель
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 
 #EXTINF:-1 group-title="Детские",Солнце
-http://91.207.115.228:5000/c167
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 
 #EXTINF:-1 group-title="Детские",Ani
-http://91.207.115.228:5000/c64
+http://95.66.188.74/Ani/mono.m3u8
 
 #EXTINF:-1 group-title="Детские",Мульт
-http://91.207.115.228:5000/c63
+http://95.66.188.74/Mult_HD/mono.m3u8
 
 #EXTINF:-1 group-title="Детские",Мультиландия
-http://91.207.115.228:5000/c67
+http://95.66.188.74/Multilandia/mono.m3u8
 
 #EXTINF:-1 group-title="Детские",В гостях у сказки
 http://45.145.32.13:20440/sony_turbo/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Детские",Уникум
-http://91.207.115.228:5000/c65
+https://flussonic.salomtv.uz/Detskiy/video.m3u8
 
 #EXTINF:-1 group-title="Детские",О!
-http://91.207.115.228:5000/c68
+http://95.66.188.74/O/mono.m3u8
 
 #EXTINF:-1  group-title="Детские",Смешарики
 http://cdn.admuspeh.my/9081/video.m3u8?token=NVbvJ28N26iEqQiP
