@@ -49,7 +49,7 @@ http://95.66.188.74/Dom_kino/mono.m3u8
 http://178.212.71.253:8000/play/136/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Русский бестселлер
-http://91.207.115.228:5000/c34
+https://streamer1.connectto.com/464/mono.m3u8
 
 #EXTINF:-1 group-title="Кино",Русский детектив
 http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
