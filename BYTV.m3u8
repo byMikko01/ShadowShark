@@ -46,10 +46,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 http://95.66.188.74/Dom_kino/mono.m3u8
 
 #EXTINF:-1 group-title="Кино",Родное кино
-http://mfe02.cliptv.az/dash/Rodnoe_Kino_SDqw45yu.ism/playlist.mpd
+http://178.212.71.253:8000/play/136/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Русский бестселлер
-http://31148.rafail1982.uz/Russkiy_Bestseller/index.m3u8
+https://streamer1.connectto.com/464/mono.m3u8
 
 #EXTINF:-1 group-title="Кино",Русский детектив
 http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
@@ -61,13 +61,13 @@ http://95.66.188.74/RusRoman/mono.m3u8
 http://193.25.8.59:8000/TV1000RU
 
 #EXTINF:-1 group-title="Кино",viju TV1000
-http://193.25.8.59:8000/TV1000
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
 
 #EXTINF:-1 group-title="Кино",viju TV1000 action
 https://bigteisti2.streaming-elbrus.su:9304/tv1000_action_SD/video.m3u8
 
 #EXTINF:-1 group-title="Кино",Сапфир
-https://livetv.mylifeisgood.net.ru/channels/saphire.m3u8
+http://185.78.112.57:8077/fox_life_hd/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Киномикс HD
 http://95.66.188.74/Kinomiks/mono.m3u8
@@ -97,19 +97,19 @@ http://185.78.112.57:8077/illusion_plus_hd/index.m3u8
 http://31.148.48.15/Kino_TV_HD/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Русский Иллюзион
-http://195.26.83.96:7006/play/a00y/index.m3u8
+http://185.78.112.57:8077/RusskiyIllusion/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Любимое кино
 http://185.78.112.57:8077/LubimoeKino/index.m3u8
 
 #EXTINF:-1 group-title="Кино",.Black
-http://mfe01.cliptv.az/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd
+http://95.66.188.74/.black/index.m3u8
 
 #EXTINF:-1 group-title="Кино",.Red
-http://193.25.8.59:8000/set
+http://188.190.222.53/Sony_ET/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Кино",.Sci-Fi
-http://193.25.8.59:8000/axn
+http://94.232.127.28:8080/sony-scifi/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Timeless Dizi Channel
 http://193.25.8.59:8000/tlc
@@ -125,6 +125,9 @@ https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 
 #EXTINF:-1 group-title="Кино",START World
 http://109.248.236.51/start_world_hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МЕНТОВСКИЕ ВОЙНЫ" tvg-logo="http://i124.fastpic.org/big/2025/0304/2c/930f3fcde26e11a3322ed8f37b89952c.png" group-title="Кинозалы",МЕНТОВСКИЕ ВОЙНЫ
+https://stream-msk-15.ott.tricolor.tv/dtv/id977_MSKSG-PVR-1--Kinozal_3/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
 
 #EXTINF:-1 group-title="Кинозалы" catchup="flussonic" catchup-days="1" tvg-id="CineMan Ментовские войны FHD",Ментовские войны
 http://cdn.admuspeh.my/8802/video.m3u8?token=NVbvJ28N26iEqQiP
