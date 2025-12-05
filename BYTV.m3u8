@@ -106,10 +106,10 @@ http://185.78.112.57:8077/LubimoeKino/index.m3u8
 http://95.66.188.74/.black/index.m3u8
 
 #EXTINF:-1 group-title="Кино",.Red
-http://91.207.115.228:5000/c78
+http://195.191.208.11:8087/udp/224.0.90.90:1234
 
 #EXTINF:-1 group-title="Кино",.Sci-Fi
-http://91.207.115.228:5000/c77
+http://193.25.8.59:8000/axn
 
 #EXTINF:-1 group-title="Кино",Timeless Dizi Channel
 http://193.25.8.59:8000/tlc
