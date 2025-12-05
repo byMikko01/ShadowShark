@@ -58,13 +58,13 @@ http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 http://95.66.188.74/RusRoman/mono.m3u8
 
 #EXTINF:-1 group-title="Кино",viju TV1000 русское
-http://193.25.8.59:8000/TV1000RU
+http://2.57.217.85:8000/play/a09z/index.m3u8
 
 #EXTINF:-1 group-title="Кино",viju TV1000
-http://91.207.115.228:5000/c48
+http://2.57.217.85:8000/play/a09x/index.m3u8
 
 #EXTINF:-1 group-title="Кино",viju TV1000 action
-http://91.207.115.228:5000/c49
+http://2.57.217.85:8000/play/a09y/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Сапфир
 http://185.78.112.57:8077/fox_life_hd/index.m3u8
@@ -106,7 +106,7 @@ http://185.78.112.57:8077/LubimoeKino/index.m3u8
 http://95.66.188.74/.black/index.m3u8
 
 #EXTINF:-1 group-title="Кино",.Red
-http://195.191.208.11:8087/udp/224.0.90.90:1234
+http://193.25.8.59:8000/set
 
 #EXTINF:-1 group-title="Кино",.Sci-Fi
 http://193.25.8.59:8000/axn
