@@ -91,16 +91,16 @@ http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
 http://95.66.188.74/NasheNovoeKino/mono.m3u8
 
 #EXTINF:-1 group-title="Кино",Иллюзион+
-http://185.78.112.57:8077/illusion_plus_hd/index.m3u8
+http://cdn.admuspeh.my/8134/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино",Кино ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Русский Иллюзион
-http://185.78.112.57:8077/RusskiyIllusion/index.m3u8
+http://cdn.admuspeh.my/8132/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино",Любимое кино
-http://185.78.112.57:8077/LubimoeKino/index.m3u8
+http://cdn.admuspeh.my/8946/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино",.Black
 http://95.66.188.74/.black/index.m3u8
@@ -121,7 +121,7 @@ http://193.25.8.59:8000/amedia1
 http://193.25.8.59:8000/amedia2
 
 #EXTINF:-1 group-title="Кино",START air
-https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+http://cdn.admuspeh.my/8398/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино",START World
 http://109.248.236.51/start_world_hd/tracks-v1a1/mono.m3u8
@@ -166,3 +166,15 @@ http://95.66.188.74/O/mono.m3u8
 
 #EXTINF:-1  group-title="Детские",Смешарики
 http://cdn.admuspeh.my/9081/video.m3u8?token=NVbvJ28N26iEqQiP
+
+#EXTINF:-1  group-title="Музыкальные",Музыка Первого
+http://193.25.8.59:8000/muzika
+
+#EXTINF:-1  group-title="Музыкальные",МУЗ ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
+
+#EXTINF:-1  group-title="Музыкальные",RU TV
+http://cdn.admuspeh.my/8185/video.m3u8?token=NVbvJ28N26iEqQiP
+
+#EXTINF:-1  group-title="Музыкальные",ЖАРА
+http://cdn.admuspeh.my/8361/video.m3u8?token=NVbvJ28N26iEqQiP
