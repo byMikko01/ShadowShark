@@ -67,7 +67,7 @@ http://2.57.217.85:8000/play/a09x/index.m3u8
 http://2.57.217.85:8000/play/a09y/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Сапфир
-http://185.78.112.57:8077/fox_life_hd/index.m3u8
+http://cdn.admuspeh.my/8169/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино",Киномикс HD
 http://95.66.188.74/Kinomiks/mono.m3u8
