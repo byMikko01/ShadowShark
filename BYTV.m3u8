@@ -169,7 +169,7 @@ http://95.66.188.74/O/mono.m3u8
 http://cdn.admuspeh.my/9081/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1  group-title="Музыкальные",Музыка Первого
-http://193.25.8.59:8000/muzika
+http://50.7.28.226/8135/index.m3u8
 
 #EXTINF:-1  group-title="Музыкальные",МУЗ-ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
