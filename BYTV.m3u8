@@ -43,7 +43,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
 #EXTINF:-1 group-title="Кино",Дом Кино
-http://95.66.188.74/Dom_kino/mono.m3u8
+http://185.223.125.136:8005/dk?token=test
 
 #EXTINF:-1 group-title="Кино",Родное кино
 http://178.212.71.253:8000/play/136/index.m3u8
@@ -150,7 +150,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 http://95.66.188.74/Ani/mono.m3u8
 
 #EXTINF:-1 group-title="Детские",Мульт
-http://95.66.188.74/Mult_HD/mono.m3u8
+http://50.7.28.226/8157/index.m3u8
 
 #EXTINF:-1 group-title="Детские",Мультиландия
 http://95.66.188.74/Multilandia/mono.m3u8
