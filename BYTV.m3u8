@@ -42,8 +42,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
-#EXTINF:-1 group-title="Кино",Дом Кино test
-https://flussonic.salomtv.uz/domkino/video.m3u8
+#EXTINF:-1 group-title="Кино",Дом Кино
+https://minsk-cache02t.voka.tv/live/5105-req_offset_28000000-req_window_0-3k_v5.m3u8
 
 #EXTINF:-1 group-title="Кино",Родное кино
 http://178.212.71.253:8000/play/136/index.m3u8
