@@ -43,7 +43,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
 #EXTINF:-1 group-title="Кино",Дом Кино
-http://95.66.188.74/Dom_kino/mono.m3u8
+http://188.225.31.197/bpk-tv/000000050/tve/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Родное кино
 http://178.212.71.253:8000/play/136/index.m3u8
