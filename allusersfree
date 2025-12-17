@@ -1,4 +1,4 @@
 vless://flx.sub.info@flx.sub.info:1234?security=none&encryption=none&headerType=none&fp=chrome&type=tcp#INFO%3A%20SUB%20-%20FREE%E2%9C%85%20%28not%20a%20server%29
-vless://02f62dd5-218f-4e9f-9c4b-f8a2e452533e@78.159.247.79:443?security=reality&encryption=none&pbk=HxjD-7OeJUtrNFsW4PEqThSs6fujV9Mkl5Z4igx21k8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com&sid=ef#%F0%9F%87%B7%F0%9F%87%BA%20FLX%20%E2%80%A2%20RU
+vless://d44e93de-4a8c-464f-81f2-eb0d384b1ab2@185.234.59.90:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=175d#%F0%9F%87%B7%F0%9F%87%BA%20FLX%20%E2%80%A2%20RU
 vless://a730dc53-5ff7-4dfc-9a90-a58dca829ab0@94.131.100.162:443?path=%2Fvirwsmws&security=tls&encryption=none&insecure=1&host=console.firebase.google.com&type=ws&allowInsecure=1&sni=console.firebase.google.com#%F0%9F%87%AB%F0%9F%87%AE%20FLX%20%E2%80%A2%20FI
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@45.89.111.103:443?path=%2Fhormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20FLX%20%E2%80%A2%20UK
