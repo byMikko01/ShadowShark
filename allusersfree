@@ -1,4 +1,4 @@
 vless://flx.sub.info@flx.sub.info:1234?security=none&encryption=none&headerType=none&fp=chrome&type=tcp#INFO%3A%20SUB%20-%20FREE%E2%9C%85%20%28not%20a%20server%29
-vless://5ca102f1-41cc-4731-84cc-6cdcd07e3424@27.50.48.102:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000&security=tls&alpn=h3&encryption=none&insecure=0&host=vless.hubp.de&fp=random&type=ws&allowInsecure=0&sni=vless.hubp.de#%F0%9F%87%B7%F0%9F%87%BA%20FLX%20%E2%80%A2%20RU
+vless://02f62dd5-218f-4e9f-9c4b-f8a2e452533e@78.159.247.79:443?security=reality&encryption=none&pbk=HxjD-7OeJUtrNFsW4PEqThSs6fujV9Mkl5Z4igx21k8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com&sid=ef#%F0%9F%87%B7%F0%9F%87%BA%20FLX%20%E2%80%A2%20RU
 vless://80a02d29-a5bd-4eb1-a478-fa556b2824b3@141.98.169.111:443?path=%2Fbspuwfws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%AE%20FLX%20%E2%80%A2%20FI
 vless://26052074-f2a5-4335-b602-fe34633c71b1@lva.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=lva.tunnelguard.ru#%F0%9F%87%B1%F0%9F%87%BB%20FLX%20%E2%80%A2%20LV
