@@ -1,5 +1,5 @@
 #profile-title: FLX VPN
-subscription-userinfo: upload = 0; download = 99999999; total = 0; expire = 29910018
+#subscription-userinfo: upload = 0; download = 99999999; total = 0; expire = 29910018
 #subscription-auto-update-open-enable: 1
 #profile-update-interval: 2
 #announce: Ваш ID - ADMIN
