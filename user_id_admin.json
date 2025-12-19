@@ -2,7 +2,7 @@
 #subscription-auto-update-open-enable: 1
 #profile-update-interval: 2
 #announce: Ваш ID - ADMIN
-#subscription-userinfo: upload=0; download=0; total=0; expire=1674172799
+#subscription-userinfo: upload=0; download=0; total=0; expire=1768876799
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@193.233.231.221:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7Bmode%3Dstream-up%2C%2Bxmux%3D%7BcMaxReuseTimes%3D64-128%2C%2BmaxConcurrency%3D8-16%2C%2BmaxConnections%3D0.0%2C%2BhKeepAlivePeriod%3D0.0%2C%2BhMaxRequestTimes%3D400-600%2C%2BhMaxReusableSecs%3D1800-3600%7D%2C%2BnoSSEHeader%3Dfalse%2C%2BnoGRPCHeader%3Dfalse%2C%2BxPaddingBytes%3D100-1000%2C%2BscMaxBufferedPosts%3D30.0%2C%2BscMaxEachPostBytes%3D500000-1000000%2C%2BscMinPostsIntervalMs%3D10-50%2C%2BscStreamUpServerSecs%3D30-90%7D&pbk=P-3bYKbPp5YeCefayC3S3PvLanBv_lp0p_5qfrjbM34&type=xhttp&sni=sun1-90.userapi.com&sid=fda2928a0a987b11#%F0%9F%87%B7%F0%9F%87%BA%20FLX%20%E2%80%A2%20RU
 vless://id1172250129@109.107.167.158:443?security=reality&encryption=none&pbk=QmVrMB5mUwNb8QpyPgV2quM8ghO-nm02-AjkK7aJrGA&headerType=none&fp=chrome&spx=%2FE5o2tvfYGU5lkTG&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=b3342177836e3a0b#%F0%9F%87%B3%F0%9F%87%B1%20FLX%20%E2%80%A2%20NL
 vless://067b86c0-d3ae-11f0-99ac-a58089c45fd4@h4.zx72.net:443?security=reality&encryption=none&pbk=n0P-n7WEhYsiVJTsXSUqYF04PuCa9Eg17g_IG4k5XXg&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=90c1c30633151151#%F0%9F%87%B8%F0%9F%87%AA%20FLX%20%E2%80%A2%20SE
