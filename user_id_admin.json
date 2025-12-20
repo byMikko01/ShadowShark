@@ -2,7 +2,7 @@
 #subscription-auto-update-open-enable: 1
 #profile-update-interval: 2
 #announce: Ваш ID - ADMIN
-#subscription-userinfo: upload=0; download=0; total=0; expire=1768876799
+#subscription-userinfo: upload=0; download=0; total=0; expire=64175760000
 vless://eb7c7631-6c7c-4f34-a65a-974b4565d01d@nsk.geodema.network:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=nsk.geodema.network&sid=1ed136481e0ede74#%F0%9F%87%B7%F0%9F%87%BA%20FLX%20%E2%80%A2%20RU
 vless://6d54e0aa-ca8a-44e0-bb03-690f1f3c3719@ee2.srv.oplcdn.link:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=qq&type=xhttp&sni=ign.com&sid=6ba85179e30d4fc2#%F0%9F%87%AA%F0%9F%87%AA%20FLX%20%E2%80%A2%20ES
 vless://6d54e0aa-ca8a-44e0-bb03-690f1f3c3719@fi.srv.oplcdn.link:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=qq&type=xhttp&sni=ign.com&sid=6ba85179e30d4fc2#%F0%9F%87%AB%F0%9F%87%AE%20FLX%20%E2%80%A2%20FI
