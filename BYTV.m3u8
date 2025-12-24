@@ -46,7 +46,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 https://minsk-cache02t.voka.tv/live/5105-req_offset_28000000-req_window_0-3k_v5.m3u8
 
 #EXTINF:-1 group-title="Кино",Родное кино
-http://178.212.71.253:8000/play/136/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Русский бестселлер
 http://cdn.admuspeh.my/8162/video.m3u8?token=NVbvJ28N26iEqQiP
@@ -55,7 +54,7 @@ http://cdn.admuspeh.my/8162/video.m3u8?token=NVbvJ28N26iEqQiP
 https://tv.tvcdnpotok.com/LjbwMzeY1PWxdK4QXueJyQ/136/1766347028/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Русский Роман
-https://tv.tvcdnpotok.com/t2KaHZZa-3q2FC06o3PWCA/556/1766348005/index.m3u8
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 
 #EXTINF:-1 group-title="Кино",viju TV1000 русское
 http://2.57.217.85:8000/play/a09z/index.m3u8
@@ -130,7 +129,7 @@ http://109.248.236.51/start_world_hd/tracks-v1a1/mono.m3u8
 http://cdn.admuspeh.my/8802/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кинозалы",Ментовские войны #2
-http://cdn.admuspeh.my/8802/video.m3u8?token=NVbvJ28N26iEqQiP
+https://stream-msk-15.ott.tricolor.tv/dtv/id977_MSKSG-PVR-1--Kinozal_3/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTgwOTc5NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ1MjA0OTk1LCJzZXNzaW9uX2lkIjoiZmIzMzM1NmQyNmM3OTQ5NTU4NmRkMmI3ZWY4Mjc0MzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aFyzYCgM_oKjh2_Dg6FQYD6PyavjN_0NIUwZ6-lXrr0
 
 #EXTINF:-1 group-title="Кинозалы",Сваты
 http://cdn.admuspeh.my/8893/video.m3u8?token=NVbvJ28N26iEqQiP
