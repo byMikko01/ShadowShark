@@ -46,15 +46,16 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 https://minsk-cache02t.voka.tv/live/5105-req_offset_28000000-req_window_0-3k_v5.m3u8
 
 #EXTINF:-1 group-title="Кино",Родное кино
+http://178.212.71.253:8000/play/136/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Русский бестселлер
 http://cdn.admuspeh.my/8162/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино",Русский детектив
-https://tv.tvcdnpotok.com/LjbwMzeY1PWxdK4QXueJyQ/136/1766347028/index.m3u8
+http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 
 #EXTINF:-1 group-title="Кино",Русский Роман
-http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTgwOTc5NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ1MjA0OTk1LCJzZXNzaW9uX2lkIjoiZmIzMzM1NmQyNmM3OTQ5NTU4NmRkMmI3ZWY4Mjc0MzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aFyzYCgM_oKjh2_Dg6FQYD6PyavjN_0NIUwZ6-lXrr0
+http://95.66.188.74/RusRoman/mono.m3u8
 
 #EXTINF:-1 group-title="Кино",viju TV1000 русское
 http://2.57.217.85:8000/play/a09z/index.m3u8
@@ -145,15 +146,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 
-#EXTINF:-1 group-title="Детские",Cartoon Network
-https://tv.tvcdnpotok.com/R5fUMO3y8dxxYF2KA9pktQ/2042/1766257372/index.m3u8
-
-#EXTINF:-1 group-title="Детские",Nickelodeon
-https://tv.tvcdnpotok.com/FzE8fCHwwSeQxjp5Rdfy5g/155/1766257468/index.m3u8
-
-#EXTINF:-1 group-title="Детские",Nick JR
-https://tv.tvcdnpotok.com/uIgZV-V7bfGY3aFWIe50kw/210/1766257529/index.m3u8
-
 #EXTINF:-1 group-title="Детские",Ani
 http://95.66.188.74/Ani/mono.m3u8
 
@@ -161,7 +153,7 @@ http://95.66.188.74/Ani/mono.m3u8
 http://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
 
 #EXTINF:-1 group-title="Детские",Мультиландия
-https://tv.tvcdnpotok.com/zd9cZhGOANZMd49Dtj3chw/2045/1766444630/index.m3u8
+http://95.66.188.74/Multilandia/mono.m3u8
 
 #EXTINF:-1 group-title="Детские",В гостях у сказки
 http://45.145.32.13:20440/sony_turbo/index.m3u8?token=test
