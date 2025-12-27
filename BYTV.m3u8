@@ -42,19 +42,19 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
-#EXTINF:-1 group-title="Кино",Дом Кино
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/2851.png",Дом Кино
 https://minsk-cache02t.voka.tv/live/5105-req_offset_28000000-req_window_0-3k_v5.m3u8
 
-#EXTINF:-1 group-title="Кино",Родное кино
+#EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10136/logo_256_1658734780.png",Родное кино
 http://178.212.71.253:8000/play/136/index.m3u8
 
-#EXTINF:-1 group-title="Кино",Русский бестселлер
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/7525.png",Русский бестселлер
 http://cdn.admuspeh.my/8162/video.m3u8?token=NVbvJ28N26iEqQiP
 
-#EXTINF:-1 group-title="Кино",Русский детектив
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/6590.png",Русский детектив
 http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 
-#EXTINF:-1 group-title="Кино",Русский Роман
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/3574.png",Русский Роман
 http://95.66.188.74/RusRoman/mono.m3u8
 
 #EXTINF:-1 group-title="Кино",viju TV1000 русское
@@ -66,64 +66,64 @@ http://2.57.217.85:8000/play/a09x/index.m3u8
 #EXTINF:-1 group-title="Кино",viju TV1000 action
 http://2.57.217.85:8000/play/a09y/index.m3u8
 
-#EXTINF:-1 group-title="Кино",Сапфир
+#EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/17039/logo_256_1681191678.png",Сапфир
 http://31.148.48.15/Sapfir/index.m3u8
 
-#EXTINF:-1 group-title="Кино",Киномикс HD
+#EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10342/logo_256_1658734729.png",Киномикс HD
 http://95.66.188.74/Kinomiks/mono.m3u8
 
-#EXTINF:-1 group-title="Кино",Киносемья HD
+#EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10373/logo_256_1658734849.png",Киносемья HD
 http://2.57.217.85:8000/play/a05v/index.m3u8
 
-#EXTINF:-1 group-title="Кино",Кинохит HD
+#EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10375/logo_256_1658734901.png",Кинохит HD
 http://178.212.71.253:8000/play/123/index.m3u8
 
-#EXTINF:-1 group-title="Кино",Киносвидание
+#EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10374/logo_256_1658736669.png",Киносвидание
 http://178.212.71.253:8000/play/122/index.m3u8
 
-#EXTINF:-1 group-title="Кино",Кинопремьера HD
+#EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10372/logo_256_1658734797.png",Кинопремьера HD
 http://178.212.71.253:8000/play/125/index.m3u8
 
-#EXTINF:-1 group-title="Кино",Мужское кино
+#EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10376/logo_256_1658736938.png",Мужское кино
 http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
 
-#EXTINF:-1 group-title="Кино",Наше Новое Кино
+#EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10343/logo_256_1658737066.png",Наше Новое Кино
 http://95.66.188.74/NasheNovoeKino/mono.m3u8
 
-#EXTINF:-1 group-title="Кино",Иллюзион+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/74/logo_256_1658736167.png",Иллюзион+
 http://cdn.admuspeh.my/8134/video.m3u8?token=NVbvJ28N26iEqQiP
 
-#EXTINF:-1 group-title="Кино",Кино ТВ
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/5930.png",Кино ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
 
-#EXTINF:-1 group-title="Кино",Русский Иллюзион
+#EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/119/logo_128_1652790001.png",Русский Иллюзион
 http://cdn.admuspeh.my/8132/video.m3u8?token=NVbvJ28N26iEqQiP
 
-#EXTINF:-1 group-title="Кино",Любимое кино
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/8314.png",Любимое кино
 http://cdn.admuspeh.my/8946/video.m3u8?token=NVbvJ28N26iEqQiP
 
-#EXTINF:-1 group-title="Кино",.Black
+#EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14498/logo_256_1660800255.png",.Black
 http://95.66.188.74/.black/index.m3u8
 
-#EXTINF:-1 group-title="Кино",.Red
+#EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14484/logo_256_1660800271.png",.Red
 http://193.25.8.59:8000/set
 
-#EXTINF:-1 group-title="Кино",.Sci-Fi
+#EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14491/logo_256_1660800286.png",.Sci-Fi
 http://193.25.8.59:8000/axn
 
-#EXTINF:-1 group-title="Кино",Timeless Dizi Channel
+#EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/12040/logo_256_1655390551.png",Timeless Dizi Channel
 http://193.25.8.59:8000/tlc
 
-#EXTINF:-1 group-title="Кино",Amedia 1
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/7386.png",Amedia 1
 http://193.25.8.59:8000/amedia1
 
-#EXTINF:-1 group-title="Кино",Amedia 2
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/7515.png",Amedia 2
 http://193.25.8.59:8000/amedia2
 
-#EXTINF:-1 group-title="Кино",START Air
+#EXTINF:-1 group-title="Кино" tvg-logo="https://www.kartina.tv/storage/contents/23644/.png",START Air
 http://cdn.admuspeh.my/8398/video.m3u8?token=NVbvJ28N26iEqQiP
 
-#EXTINF:-1 group-title="Кино",START World
+#EXTINF:-1 group-title="Кино" tvg-logo="https://pic.rutubelist.ru/user/2024-09-27/19/2b/192b643b0295f044cbcf77486911c78a.jpg",START World
 http://109.248.236.51/start_world_hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="https://dbtv.ru/upload/icons/cineman-musw.png",CineMan Ментовские войны
