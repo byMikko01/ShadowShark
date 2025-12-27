@@ -167,8 +167,11 @@ http://95.66.188.74/O/mono.m3u8
 #EXTINF:-1 group-title="Детские",Губка Боб Квадратные Штаны
 http://cdn.admuspeh.my/9057/video.m3u8?token=NVbvJ28N26iEqQiP
 
-#EXTINF:-1  group-title="Детские",Смешарики
+#EXTINF:-1 group-title="Детские",Смешарики
 http://cdn.admuspeh.my/9081/video.m3u8?token=NVbvJ28N26iEqQiP
+
+#EXTINF:-1 group-title="Детские" VF Новогодние Мультфильмы
+http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/15523/index.m3u8
 
 #EXTINF:-1  group-title="Музыкальные",Музыка Первого
 https://s209.glaz.tv:8082/liveg/muzika.stream/chunks.m3u8?nimblesessionid=406507180&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAyNSAxMTo1NzoyMSBBTSZoYXNoX3ZhbHVlPUZ1Y29mSFhJcUxrdjlJTnRhUUZrbkE9PSZ2YWxpZG1pbnV0ZXM9MjAw
@@ -191,8 +194,8 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
 
-#EXTINF:-1  group-title="Запасной",Россия 1 Запасной
+#EXTINF:-1  group-title="Запасной" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_128.webp" tvg-id="Россия 1",Россия 1 Запасной
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
-#EXTINF:-1  group-title="Запасной",Россия 1 +2 Запасной
-https://edge01d.mediavitrina.ru/hls-livef1/russia1_2/tracks-t1/mono.ts.m3u8?token=v2.Yl4tinUZyp4ygVZNDe4UzwKq1Z8Bg1NM2R5dPdLLJOo._W8fWEyelolfrDQrElE3VE9BgWfIDcgSvMrK6-79dVM.1767441575.3be8c380bc2c08423020bbcd3a7368ca
+#EXTINF:-1  group-title="Запасной" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_128.webp" tvg-id="Россия 1 (+2)",Россия 1 +2 Запасной
+http://cdn.admuspeh.my/8426/video.m3u8?token=NVbvJ28N26iEqQiP
