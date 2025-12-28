@@ -73,7 +73,7 @@ http://31.148.48.15/Sapfir/index.m3u8
 http://95.66.188.74/Kinomiks/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10373/logo_256_1658734849.png",Киносемья HD
-http://2.57.217.85:8000/play/a05v/index.m3u8
+http://cdn.admuspeh.my/8047/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10375/logo_256_1658734901.png",Кинохит HD
 http://178.212.71.253:8000/play/123/index.m3u8
