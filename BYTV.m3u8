@@ -129,14 +129,14 @@ http://109.248.236.51/start_world_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="https://dbtv.ru/upload/icons/cineman-musw.png",CineMan Ментовские войны
 http://cdn.admuspeh.my/8802/video.m3u8?token=NVbvJ28N26iEqQiP
 
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://kino-static.tricolor.ru/media/v2/7a8bf54f-6245-4eaf-85c2-108394642d9f",Триколор Ментовские войны
-http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/18128/index.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://dbtv.ru/upload/icons/cineman-musw.png",CineMan Ментовские войны #2
+http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzg4MDIvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiMTEwNCIsInQiOiI2MzczODNlMzA3NGI4MGZlMDA5MDNhZTNjZDNlODNjMCIsImQiOiI0NDE1NDYiLCJyIjoiNDUzNDM2IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84ODAyL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="https://m3u.admuspeh.my/icon/cineman-svaty.png",Cineman Сваты
 http://cdn.admuspeh.my/8825/video.m3u8?token=NVbvJ28N26iEqQiP
 
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://kino-static.tricolor.ru/media/v2/e005bbb9-8ef7-4bbd-8ecc-b006aa7a5415",Триколор Смешарики
-http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/18136/index.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://kino-static.tricolor.ru/media/v2/e005bbb9-8ef7-4bbd-8ecc-b006aa7a5415",Смешарики
+http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzkwODEvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiMTYwMSIsInQiOiI2MzczODNlMzA3NGI4MGZlMDA5MDNhZTNjZDNlODNjMCIsImQiOiI0NDE1NDYiLCJyIjoiNDUzNDM2IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi85MDgxL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/5013.png",Карусель
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
@@ -159,7 +159,7 @@ http://95.66.188.74/Multilandia/mono.m3u8
 http://45.145.32.13:20440/sony_turbo/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/5438.png",Уникум
-http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/730/index.m3u8
+http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzgwNjcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiNjUiLCJ0IjoiNjM3MzgzZTMwNzRiODBmZTAwOTAzYWUzY2QzZTgzYzAiLCJkIjoiNDQxNTQ2IiwiciI6IjQ1MzQzNiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84MDY3L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/4299.png",О!
 http://95.66.188.74/O/mono.m3u8
@@ -167,8 +167,11 @@ http://95.66.188.74/O/mono.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://kino-static.tricolor.ru/media/v2/e005bbb9-8ef7-4bbd-8ecc-b006aa7a5415",Смешарики
 http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/18136/index.m3u8
 
-#EXTINF:-1 group-title="Детские" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/f0/VF_%D0%9D%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%D0%B4%D0%BD%D0%B8%D0%B5_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B.png/revision/latest?cb=20211004203352&path-prefix=ru",VF Новогодние Мультфильмы
-http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/15523/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/MM Lesson HD.png",MM Lesson HD
+http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzg1OTcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiMTY1OSIsInQiOiI2MzczODNlMzA3NGI4MGZlMDA5MDNhZTNjZDNlODNjMCIsImQiOiI0NDE1NDYiLCJyIjoiNDUzNDM2IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84NTk3L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
+
+#EXTINF:-1 group-title="Детские" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/MM Smile HD.png",MM Smile HD
+http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzg1ODcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiMTY2MCIsInQiOiI2MzczODNlMzA3NGI4MGZlMDA5MDNhZTNjZDNlODNjMCIsImQiOiI0NDE1NDYiLCJyIjoiNDUzNDM2IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84NTg3L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://m3u.admuspeh.my/icon/kernel_gravity_falls.png",Kernel Гравити Фолз
 http://cdn.admuspeh.my/9056/video.m3u8?token=NVbvJ28N26iEqQiP
@@ -199,3 +202,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
 #EXTINF:-1 group-title="Запасные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_128.webp" tvg-id="Россия 1 (+2)",Россия 1 +2 Запасной
 http://cdn.admuspeh.my/8426/video.m3u8?token=NVbvJ28N26iEqQiP
+
+#EXTINF:-1 group-title="Запасные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_128.webp" tvg-id="Россия 1 (+2)",Россия 1 +2 Запасной №2
+https://mhd122.iptv2022.com/x/inQ1LNtajfTs16XmFw2-RA,1767088524/streaming/rossia1plus2-drm/324/5/tracks-v4a1/mono.m3u8
