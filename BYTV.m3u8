@@ -50,7 +50,8 @@ https://minsk-cache02t.voka.tv/live/5105-req_offset_28000000-req_window_0-3k_v5.
 http://178.212.71.253:8000/play/136/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/7525.png",Русский бестселлер
-http://cdn.admuspeh.my/8162/video.m3u8?token=NVbvJ28N26iEqQiP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+https://vod.splay.uz/live_splay/original/RusskiyBesteler/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/6590.png",Русский детектив
 http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
@@ -104,13 +105,15 @@ http://cdn.admuspeh.my/8132/video.m3u8?token=NVbvJ28N26iEqQiP
 http://cdn.admuspeh.my/8946/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14498/logo_256_1660800255.png",.Black
-http://95.66.188.74/.black/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+https://minsk-cache07t.voka.tv/live/3001-req_offset_28000000-req_window_0-aud-0k_v5.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14484/logo_256_1660800271.png",.Red
 http://193.25.8.59:8000/set
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14491/logo_256_1660800286.png",.Sci-Fi
-http://193.25.8.59:8000/axn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+https://minsk-cache01t.voka.tv/live/207-req_offset_28000000-req_window_0-aud-0k_v5.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/12040/logo_256_1655390551.png",Timeless Dizi Channel
 http://193.25.8.59:8000/tlc
@@ -137,6 +140,7 @@ http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/18128/index.m3u8
 http://cdn.admuspeh.my/8825/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="https://kino-static.tricolor.ru/media/v2/e005bbb9-8ef7-4bbd-8ecc-b006aa7a5415",Смешарики
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
 http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzkwODEvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiMTYwMSIsInQiOiI2MzczODNlMzA3NGI4MGZlMDA5MDNhZTNjZDNlODNjMCIsImQiOiI0NDE1NDYiLCJyIjoiNDUzNDM2IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi85MDgxL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/5013.png",Карусель
@@ -172,18 +176,18 @@ http://95.66.188.74:80/O/mono.m3u8
 http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/18136/index.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://karnei4.github.io/convert/img/8805.png",Музыка Первого
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
-https://s209.glaz.tv:8082/liveg/muzika.stream/chunks.m3u8?nimblesessionid=406507180&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAyNSAxMTo1NzoyMSBBTSZoYXNoX3ZhbHVlPUZ1Y29mSFhJcUxrdjlJTnRhUUZrbkE9PSZ2YWxpZG1pbnV0ZXM9MjAw
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Muz_Perv
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://karnei4.github.io/convert/img/1806.png",МУЗ-ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://karnei4.github.io/convert/img/5778.png",RU TV
-https://hls-03-video.webcaramba.com/rutv/live.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://karnei4.github.io/convert/img/4248.png",ЖАРА
-http://50.7.28.226/8361/index.m3u8
+http://31.148.48.15:80/Zhara/index.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10162/logo_256_1660804483.png",БСТ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
