@@ -206,7 +206,7 @@ http://cdn.admuspeh.my/8426/video.m3u8?token=NVbvJ28N26iEqQiP
 #EXTINF:-1 group-title="Запасные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_128.webp" tvg-id="Россия 1 (+2)",Россия 1 +2 Запасной №2
 https://mhd122.iptv2022.com/x/inQ1LNtajfTs16XmFw2-RA,1767088524/streaming/rossia1plus2-drm/324/5/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 group-title="Zona Films" tvg-logo="https://w140.zona.plus/favicon-192x192.png",Алёша Попович и Тугарин Змей
+#EXTINF:-1 group-title="Zona Films",Алёша Попович и Тугарин Змей
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
 https://dlcache4.vibio.tv/08749b8b6a9cf754bb06278adb9a5621/2810/2810028/output.mq.mp4
 
