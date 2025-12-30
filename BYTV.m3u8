@@ -7,7 +7,7 @@
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_128.webp" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 +2
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10100/logo_128.webp" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ +2
@@ -43,14 +43,14 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/2851.png",Дом Кино
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://minsk-cache02t.voka.tv/live/5105-req_offset_28000000-req_window_0-3k_v5.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10136/logo_256_1658734780.png",Родное кино
 http://178.212.71.253:8000/play/136/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/7525.png",Русский бестселлер
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://vod.splay.uz/live_splay/original/RusskiyBesteler/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/6590.png",Русский детектив
@@ -105,14 +105,14 @@ http://cdn.admuspeh.my/8132/video.m3u8?token=NVbvJ28N26iEqQiP
 http://cdn.admuspeh.my/8946/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14498/logo_256_1660800255.png",.Black
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://minsk-cache07t.voka.tv/live/3001-req_offset_28000000-req_window_0-aud-0k_v5.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14484/logo_256_1660800271.png",.Red
 http://193.25.8.59:8000/set
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14491/logo_256_1660800286.png",.Sci-Fi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://minsk-cache01t.voka.tv/live/207-req_offset_28000000-req_window_0-aud-0k_v5.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/12040/logo_256_1655390551.png",Timeless Dizi Channel
@@ -140,7 +140,7 @@ http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/18128/index.m3u8
 http://cdn.admuspeh.my/8825/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="https://kino-static.tricolor.ru/media/v2/e005bbb9-8ef7-4bbd-8ecc-b006aa7a5415",Смешарики
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzkwODEvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiMTYwMSIsInQiOiI2MzczODNlMzA3NGI4MGZlMDA5MDNhZTNjZDNlODNjMCIsImQiOiI0NDE1NDYiLCJyIjoiNDUzNDM2IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi85MDgxL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/5013.png",Карусель
@@ -155,19 +155,19 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 https://stv.mediacdn.ru/live/cdn/ani/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/9985.png",Мульт
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://minsk-cache07t.voka.tv/live/6007-req_offset_28000000-req_window_0-4k_v5.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/2229.png",Мультиландия
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://minsk-cache01t.voka.tv/live/5108-req_offset_28000000-req_window_0-3k_v5.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/9375.png",В гостях у сказки
 http://45.145.32.13:20440/sony_turbo/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/5438.png",Уникум
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
-https://flussonic.salomtv.uz/Detskiy/video.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://vod1.stb.tvime.ru/Unikum/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/4299.png",О!
 http://95.66.188.74:80/O/mono.m3u8
@@ -183,7 +183,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Muz_Perv
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://karnei4.github.io/convert/img/5778.png",RU TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://karnei4.github.io/convert/img/4248.png",ЖАРА
@@ -206,78 +206,78 @@ http://cdn.admuspeh.my/8426/video.m3u8?token=NVbvJ28N26iEqQiP
 #EXTINF:-1 group-title="Запасные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_128.webp" tvg-id="Россия 1 (+2)",Россия 1 +2 Запасной №2
 https://mhd122.iptv2022.com/x/inQ1LNtajfTs16XmFw2-RA,1767088524/streaming/rossia1plus2-drm/324/5/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 group-title="Zona Films",Алёша Попович и Тугарин Змей
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
-https://dlcache4.vibio.tv/08749b8b6a9cf754bb06278adb9a5621/2810/2810028/output.mq.mp4
+#EXTINF:-1 group-title="Films",Алёша Попович и Тугарин Змей
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Alesha_Popovich_i_Tugarin_Zmej_2004/stream.m3u8
 
-#EXTINF:-1 group-title="Zona Films",Добрыня Никитич и Змей Горыныч
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
-https://dl6.vibio.tv/b4a6197b632816f5f4ae95148961ee74/2811/2811679/output.mq.mp4
+#EXTINF:-1 group-title="Films",Добрыня Никитич и Змей Горыныч
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Dobrynja_Nikitich_i_Zmej_Gorynych_2006/stream.m3u8 
 
-#EXTINF:-1 group-title="Zona Films",Илья Муромец и Соловей Разбойник
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
-https://dl5.vibio.tv/3ce89385f8b4dea5e38ad71e061fdda7/2811/2811718/output.mq.mp4
+#EXTINF:-1 group-title="Films",Илья Муромец и Соловей Разбойник
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Iljya_Muromec_i_Solovej_Razbojnik_2007/stream.m3u8
 
-#EXTINF:-1 group-title="Zona Films",Три богатыря и Шамаханская царица
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
-https://dl5.vibio.tv/6b9504d57c41c7dbe3328c2d60ddcb5b/2810/2810403/output.mq.mp4
+#EXTINF:-1 group-title="Films",Три богатыря и Шамаханская царица
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://mults.info/mp4/tri_bogatyrya_i_shamahanskaya_tsaritsa.mp4
 
-#EXTINF:-1 group-title="Zona Films",Три богатыря на дальних берегах
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
-https://dl5.vibio.tv/1cedfcbb053478b13ef14d406a091641/2807/2807812/output.mq.mp4
+#EXTINF:-1 group-title="Films",Три богатыря на дальних берегах
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://mults.info/mp4/tri_bogatyrya_na_dalnih_beregah.mp4
 
-#EXTINF:-1 group-title="Zona Films",Три богатыря: Ход конем
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
-https://dl8.vibio.tv/8e14f19fa96bf9b68c1c051296bf0e28/2801/2801424/output.mq.mp4
+#EXTINF:-1 group-title="Films",Три богатыря: Ход конем
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://mults.info/mp4/tri_bogatyrya_hod_konem.mp4
 
-#EXTINF:-1 group-title="Zona Films",Три богатыря и Морской царь
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
-https://dl7.vibio.tv/b35e93018a1d1914eadaaf984f64596c/2809/2809944/output.lq.mp4
+#EXTINF:-1 group-title="Films",Три богатыря и Морской царь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://weyland.z.superdupercdn.com/movies/2bc64f0cc582757c1ae4755ca057d9d3cfc18339/0d7f9e227d7278f0d2aad7484e1818d4:2025123100/hls.m3u8
 
-#EXTINF:-1 group-title="Zona Films",Три богатыря и принцесса Египта
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
-https://cdn4531.fotpro135alto.com/stream2/cdn-400/77b885406b32dbbe99908a672fa0cb5b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFRNdnWtF1MO1WV18EVNNzTEtWeNpmQtpFRrFjWUtWMPRlVt90RFFTTUNWP:1767086933:94.75.31.59:c879c806279b99240d820fb9a1a65bbde0644310e4589bd16e66db55b8b5787f/index.m3u8
+#EXTINF:-1 group-title="Films",Три богатыря и принцесса Египта
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://midgard.z.superdupercdn.com/movies/e87adf686ab0760670bb6bf160d67fd14e34b4a1/63932d9e7ab524e4488b2c3126fbda81:2025123100/hls.m3u8
 
-#EXTINF:-1 group-title="Zona Films",Три богатыря и Наследница престола
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
-https://cdn4531.fotpro135alto.com/stream2/cdn-400/77b885406b32dbbe99908a672fa0cb5b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25EVjlXTEFENapmVqllekpWW610MN1WVw4kaNVzTXVFMapWT4lFVC12TXVVP:1767086794:94.75.31.59:ec26066ba0b0033def3eecde995b5d537a33a7aa04865808d41fac34e5be1de3/index.m3u8
+#EXTINF:-1 group-title="Films",Три богатыря и Наследница престола
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://matrix.z.superdupercdn.com/movies/5c50c2fff8561f4b03660bd15bc1450596c8959f/1b8be0c74689d5627c42086d3c69d5fa:2025123100/720.mp4:hls:manifest.m3u8
 
-#EXTINF:-1 group-title="Zona Films",Конь Юлий и большие скачки
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
-https://cdn4531.fotpro135alto.com/stream2/cdn-400/77b885406b32dbbe99908a672fa0cb5b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFRNdnWtF1MO1WV18EVNNzTEtWeNpmQtpFRrFjWUtWMPRlVt90RFFTTUNWP:1767086933:94.75.31.59:c879c806279b99240d820fb9a1a65bbde0644310e4589bd16e66db55b8b5787f/index.m3u8
+#EXTINF:-1 group-title="Films",Конь Юлий и большие скачки
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://rock.z.superdupercdn.com/movies/329c0f06093ef4ca3efab18b1488be34e7a30feb/fb12b03a92df0f842890f52bebf1a13a:2025123100/hls.m3u8
 
-#EXTINF:-1 group-title="Zona Films",Три Богатыря и Конь на Троне
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
-https://cdn4509.fotpro135alto.com/stream2/b-401/77b885406b32dbbe99908a672fa0cb5b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25UbZJzTUNGNaRlQt5UbRBjTXp1aNRVWzklMWhWTEFUNOJTVy4EVWhmWEFUP:1767087131:94.75.31.59:483566b9a61dab97c347b8bd6b353b14d9dff247be2ea292b64a7683ce7ff57d/index.m3u8
+#EXTINF:-1 group-title="Films",Три Богатыря и Конь на Троне
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://uranium.z.superdupercdn.com/movies/0e35785a6c8151cd0b7792794b22fb8b48cada3c/b979b09937ab611a1e375206daf3a183:2025123100/720.mp4:hls:manifest.m3u8
 
-#EXTINF:-1 group-title="Zona Films",Три Богатыря и Пуп Земли
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
-https://dlcache4.vibio.tv/0453c327533af2b526332a370449870b/2988/2988553/output.mq.mp4
+#EXTINF:-1 group-title="Films",Три Богатыря и Пуп Земли
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://ember.z.superdupercdn.com/movies/dda77da17d7247a085da826625039e038d3f9db9/bcf9df7bc4fa226ffa8cc7272a37cff3:2025123100/hls.m3u8
 
-#EXTINF:-1 group-title="Zona Films",Три Богатыря. Ни дня без подвига Серия
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
-https://cdn4509.fotpro135alto.com/stream2/b-401/77b885406b32dbbe99908a672fa0cb5b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT29ERGhWTq1UNO1WV1oFVGxmTqFUea1WU00kejBTTU1keORVSz4EVnBTT6lVP:1767087373:94.75.31.59:a4034c6845862b32c3f06227326587aaadcc2e6bf43b90cd4db45395298cd291/index.m3u8
+#EXTINF:-1 group-title="Films",Три Богатыря. Ни дня без подвига
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://ember.z.superdupercdn.com/movies/6eac721f634a0ca80bb03a4f711e84546fe85b90/b75c95286efcdec51d074a7d70198e2f:2025123100/hls.m3u8
 
 #EXTINF:-1 group-title="Zona Films",Иван Царевич и Серый Волк
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
-https://dl5.vibio.tv/6b44d0aec42f97c64372764714198c52/2807/2807027/output.mq.mp4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://rock.z.superdupercdn.com/movies/6a217038b11b0fe4dd70d091fd83745c3590667e/7d9abe057e2ec88a78eab389992b37cb:2025123100/hls.m3u8
 
 #EXTINF:-1 group-title="Zona Films",Иван Царевич и Серый Волк 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
-https://dl7.vibio.tv/a33f114eb2bf661814731eb0367d3fc7/2809/2809566/output.lq.mp4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://ember.z.superdupercdn.com/movies/034be4abf2c4a48f36ef3e0b362854476b9fe4db/540f029978502887b8a9ec01c3f5917c:2025123100/hls.m3u8
 
 #EXTINF:-1 group-title="Zona Films",Иван Царевич и Серый Волк 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
-https://dl8.vibio.tv/e2333d2146df782126534cc424a02d37/2806/2806867/output.mq.mp4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://mimin.z.superdupercdn.com/movies/f4883997ca243f73e11717b5b8a4190a9e4a3479/b56fbbdb1e0ea7f498863b5ba6585094:2025123100/hls.m3u8
 
 #EXTINF:-1 group-title="Zona Films",Иван Царевич и Серый Волк 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
-https://nl101.werkecdn.me/s/FHTrDmgQNq0rAB99U0zPbxQUFBQUFBUGJuT1VFUk5CSkJnZ0VXNUNDQg.JvBs3CcR2s0ZRE3xiawQydpK_BnV09P7Kgkyww/hd_30_nl104/Ivan.Tsarevich.Seri.volk.4.2019.WEBRip.1080p_720.mp4?vs4-origin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://ember.z.superdupercdn.com/movies/1b1db0fc7154e024de71c0df8e3c39c8b778f41f/7fbaeac3c7c6d49c8a25090538764eae:2025123100/hls.m3u8
 
 #EXTINF:-1 group-title="Zona Films",Иван Царевич и Серый Волк 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
-https://dl8.vibio.tv/28224cb77dc00746b6137b9dbd540232/2945/2945872/output.mq.mp4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://ember.z.superdupercdn.com/movies/5fcadcf542c54738154f0d62eeb2516c8c5928be/237eb5943acbacc6c7b514e1ba6beb4d:2025123100/hls.m3u8
 
 #EXTINF:-1 group-title="Zona Films",Иван Царевич и Серый Волк 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
-https://dlcache4.vibio.tv/8483d9b65cbc34155d7e70b9a45b67f6/3073/3073074/output.lq.mp4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://913-f8a-406gv.stream-balancer-allo-1.live/M2/0/1/1767141608/7CTMYvaAjToJB3Y1jFCk5A/4/480/1/1007372/index-f1-v1.m3u8
