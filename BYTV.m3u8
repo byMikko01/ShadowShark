@@ -205,3 +205,79 @@ http://cdn.admuspeh.my/8426/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Запасные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_128.webp" tvg-id="Россия 1 (+2)",Россия 1 +2 Запасной №2
 https://mhd122.iptv2022.com/x/inQ1LNtajfTs16XmFw2-RA,1767088524/streaming/rossia1plus2-drm/324/5/tracks-v4a1/mono.m3u8
+
+#EXTINF:-1 group-title="Три богатыря и Иван Царевич и Серый Волк by ZONA" tvg-logo="https://w140.zona.plus/favicon-192x192.png",Алёша Попович и Тугарин Змей
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+https://dlcache4.vibio.tv/08749b8b6a9cf754bb06278adb9a5621/2810/2810028/output.mq.mp4
+
+#EXTINF:-1 group-title="Три богатыря и Иван Царевич и Серый Волк" tvg-logo="https://w140.zona.plus/favicon-192x192.png",Добрыня Никитич и Змей Горыныч
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+https://dl6.vibio.tv/b4a6197b632816f5f4ae95148961ee74/2811/2811679/output.mq.mp4
+
+#EXTINF:-1 group-title="Три богатыря и Иван Царевич и Серый Волк",Илья Муромец и Соловей Разбойник
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+https://dl5.vibio.tv/3ce89385f8b4dea5e38ad71e061fdda7/2811/2811718/output.mq.mp4
+
+#EXTINF:-1 group-title="Три богатыря и Иван Царевич и Серый Волк",Три богатыря и Шамаханская царица
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+https://dl5.vibio.tv/6b9504d57c41c7dbe3328c2d60ddcb5b/2810/2810403/output.mq.mp4
+
+#EXTINF:-1 group-title="Три богатыря и Иван Царевич и Серый Волк",Три богатыря на дальних берегах
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+https://dl5.vibio.tv/1cedfcbb053478b13ef14d406a091641/2807/2807812/output.mq.mp4
+
+#EXTINF:-1 group-title "Три богатыря и Иван Царевич и Серый Волк",Три богатыря: Ход конем
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+https://dl8.vibio.tv/8e14f19fa96bf9b68c1c051296bf0e28/2801/2801424/output.mq.mp4
+
+#EXTINF:-1 group-title "Три богатыря и Иван Царевич и Серый Волк",Три богатыря и Морской царь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+https://dl7.vibio.tv/b35e93018a1d1914eadaaf984f64596c/2809/2809944/output.lq.mp4
+
+#EXTINF:-1 group-title "Три богатыря и Иван Царевич и Серый Волк",Три богатыря и принцесса Египта
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+https://cdn4531.fotpro135alto.com/stream2/cdn-400/77b885406b32dbbe99908a672fa0cb5b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFRNdnWtF1MO1WV18EVNNzTEtWeNpmQtpFRrFjWUtWMPRlVt90RFFTTUNWP:1767086933:94.75.31.59:c879c806279b99240d820fb9a1a65bbde0644310e4589bd16e66db55b8b5787f/index.m3u8
+
+#EXTINF:-1 group-title "Три богатыря и Иван Царевич и Серый Волк",Три богатыря и Наследница престола
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+https://cdn4531.fotpro135alto.com/stream2/cdn-400/77b885406b32dbbe99908a672fa0cb5b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25EVjlXTEFENapmVqllekpWW610MN1WVw4kaNVzTXVFMapWT4lFVC12TXVVP:1767086794:94.75.31.59:ec26066ba0b0033def3eecde995b5d537a33a7aa04865808d41fac34e5be1de3/index.m3u8
+
+#EXTINF:-1 group-title "Три богатыря и Иван Царевич и Серый Волк",Конь Юлий и большие скачки
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+https://cdn4531.fotpro135alto.com/stream2/cdn-400/77b885406b32dbbe99908a672fa0cb5b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFRNdnWtF1MO1WV18EVNNzTEtWeNpmQtpFRrFjWUtWMPRlVt90RFFTTUNWP:1767086933:94.75.31.59:c879c806279b99240d820fb9a1a65bbde0644310e4589bd16e66db55b8b5787f/index.m3u8
+
+#EXTINF:-1 group-title "Три богатыря и Иван Царевич и Серый Волк",Три Богатыря и Конь на Троне
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+https://cdn4509.fotpro135alto.com/stream2/b-401/77b885406b32dbbe99908a672fa0cb5b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25UbZJzTUNGNaRlQt5UbRBjTXp1aNRVWzklMWhWTEFUNOJTVy4EVWhmWEFUP:1767087131:94.75.31.59:483566b9a61dab97c347b8bd6b353b14d9dff247be2ea292b64a7683ce7ff57d/index.m3u8
+
+#EXTINF:-1 group-title "Три богатыря и Иван Царевич и Серый Волк",Три Богатыря и Пуп Земли
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+https://dlcache4.vibio.tv/0453c327533af2b526332a370449870b/2988/2988553/output.mq.mp4
+
+#EXTINF:-1 group-title "Три богатыря и Иван Царевич и Серый Волк",Три Богатыря. Ни дня без подвига Серия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+https://cdn4509.fotpro135alto.com/stream2/b-401/77b885406b32dbbe99908a672fa0cb5b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT29ERGhWTq1UNO1WV1oFVGxmTqFUea1WU00kejBTTU1keORVSz4EVnBTT6lVP:1767087373:94.75.31.59:a4034c6845862b32c3f06227326587aaadcc2e6bf43b90cd4db45395298cd291/index.m3u8
+
+#EXTINF:-1 group-title "Три богатыря и Иван Царевич и Серый Волк",Иван Царевич и Серый Волк
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+https://dl5.vibio.tv/6b44d0aec42f97c64372764714198c52/2807/2807027/output.mq.mp4
+
+#EXTINF:-1 group-title "Три богатыря и Иван Царевич и Серый Волк",Иван Царевич и Серый Волк 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+https://dl7.vibio.tv/a33f114eb2bf661814731eb0367d3fc7/2809/2809566/output.lq.mp4
+
+#EXTINF:-1 group-title "Три богатыря и Иван Царевич и Серый Волк",Иван Царевич и Серый Волк 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+https://dl8.vibio.tv/e2333d2146df782126534cc424a02d37/2806/2806867/output.mq.mp4
+
+#EXTINF:-1 group-title "Три богатыря и Иван Царевич и Серый Волк",Иван Царевич и Серый Волк 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+https://nl101.werkecdn.me/s/FHTrDmgQNq0rAB99U0zPbxQUFBQUFBUGJuT1VFUk5CSkJnZ0VXNUNDQg.JvBs3CcR2s0ZRE3xiawQydpK_BnV09P7Kgkyww/hd_30_nl104/Ivan.Tsarevich.Seri.volk.4.2019.WEBRip.1080p_720.mp4?vs4-origin
+
+#EXTINF:-1 group-title "Три богатыря и Иван Царевич и Серый Волк",Иван Царевич и Серый Волк 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+https://dl8.vibio.tv/28224cb77dc00746b6137b9dbd540232/2945/2945872/output.mq.mp4
+
+#EXTINF:-1 group-title "Три богатыря и Иван Царевич и Серый Волк",Иван Царевич и Серый Волк 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 YaBrowser/24.12.0.0
+https://dlcache4.vibio.tv/8483d9b65cbc34155d7e70b9a45b67f6/3073/3073074/output.lq.mp4
