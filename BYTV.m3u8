@@ -6,7 +6,7 @@
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_128.webp" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 +2
+#EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_128.webp" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 +2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 
@@ -197,14 +197,15 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 
-#EXTINF:-1 group-title="Запасные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_128.webp" tvg-id="Россия 1",Россия 1 Запасной
+#EXTINF:-1 group-title="Запасные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_128.webp" tvg-id="Россия 1",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
-#EXTINF:-1 group-title="Запасные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_128.webp" tvg-id="Россия 1 (+2)",Россия 1 +2 Запасной
-http://cdn.admuspeh.my/8426/video.m3u8?token=NVbvJ28N26iEqQiP
+#EXTINF:-1 group-title="Запасные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_128.webp" tvg-id="Россия 1 (+2)",Россия 1 +2
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 
-#EXTINF:-1 group-title="Запасные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_128.webp" tvg-id="Россия 1 (+2)",Россия 1 +2 Запасной №2
-https://mhd122.iptv2022.com/x/inQ1LNtajfTs16XmFw2-RA,1767088524/streaming/rossia1plus2-drm/324/5/tracks-v4a1/mono.m3u8
+#EXTINF:-1 group-title="Запасные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_128.webp" tvg-id="Россия 1 (+2)",Россия 1 +2 №2
+http://cdn.admuspeh.my/8426/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Films",Алёша Попович и Тугарин Змей
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
@@ -258,26 +259,26 @@ https://ember.z.superdupercdn.com/movies/dda77da17d7247a085da826625039e038d3f9db
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://ember.z.superdupercdn.com/movies/6eac721f634a0ca80bb03a4f711e84546fe85b90/b75c95286efcdec51d074a7d70198e2f:2025123100/hls.m3u8
 
-#EXTINF:-1 group-title="Zona Films",Иван Царевич и Серый Волк
+#EXTINF:-1 group-title="Films",Иван Царевич и Серый Волк
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://rock.z.superdupercdn.com/movies/6a217038b11b0fe4dd70d091fd83745c3590667e/7d9abe057e2ec88a78eab389992b37cb:2025123100/hls.m3u8
 
-#EXTINF:-1 group-title="Zona Films",Иван Царевич и Серый Волк 2
+#EXTINF:-1 group-title="Films",Иван Царевич и Серый Волк 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://ember.z.superdupercdn.com/movies/034be4abf2c4a48f36ef3e0b362854476b9fe4db/540f029978502887b8a9ec01c3f5917c:2025123100/hls.m3u8
 
-#EXTINF:-1 group-title="Zona Films",Иван Царевич и Серый Волк 3
+#EXTINF:-1 group-title="Films",Иван Царевич и Серый Волк 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://mimin.z.superdupercdn.com/movies/f4883997ca243f73e11717b5b8a4190a9e4a3479/b56fbbdb1e0ea7f498863b5ba6585094:2025123100/hls.m3u8
 
-#EXTINF:-1 group-title="Zona Films",Иван Царевич и Серый Волк 4
+#EXTINF:-1 group-title="Films",Иван Царевич и Серый Волк 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://ember.z.superdupercdn.com/movies/1b1db0fc7154e024de71c0df8e3c39c8b778f41f/7fbaeac3c7c6d49c8a25090538764eae:2025123100/hls.m3u8
 
-#EXTINF:-1 group-title="Zona Films",Иван Царевич и Серый Волк 5
+#EXTINF:-1 group-title="Films",Иван Царевич и Серый Волк 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://ember.z.superdupercdn.com/movies/5fcadcf542c54738154f0d62eeb2516c8c5928be/237eb5943acbacc6c7b514e1ba6beb4d:2025123100/hls.m3u8
 
-#EXTINF:-1 group-title="Zona Films",Иван Царевич и Серый Волк 6
+#EXTINF:-1 group-title="Films",Иван Царевич и Серый Волк 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://913-f8a-406gv.stream-balancer-allo-1.live/M2/0/1/1767141608/7CTMYvaAjToJB3Y1jFCk5A/4/480/1/1007372/index-f1-v1.m3u8
