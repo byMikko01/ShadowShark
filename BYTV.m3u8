@@ -50,13 +50,16 @@ http://178.212.71.253:8000/play/136/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/7525.png",Русский бестселлер
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://vod.splay.uz/live_splay/original/RusskiyBesteler/mono.m3u8
+https://s.pokaz.me/ubas2kNl9WtL8W1oWw10Ow/135/1767316371/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/6590.png",Русский детектив
 http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/3574.png",Русский Роман
 http://95.66.188.74/RusRoman/mono.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/119/logo_128_1652790001.png",Русский Иллюзион
+http://cdn.admuspeh.my/8132/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино",viju TV1000 русское
 http://2.57.217.85:8000/play/a09z/index.m3u8
@@ -66,6 +69,12 @@ http://2.57.217.85:8000/play/a09x/index.m3u8
 
 #EXTINF:-1 group-title="Кино",viju TV1000 action
 http://2.57.217.85:8000/play/a09y/index.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/5930.png",Кино ТВ
+http://31.148.48.15/Kino_TV_HD/index.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/8314.png",Любимое кино
+http://cdn.admuspeh.my/8946/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/17039/logo_256_1681191678.png",Сапфир
 http://31.148.48.15/Sapfir/index.m3u8
@@ -91,17 +100,17 @@ http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10343/logo_256_1658737066.png",Наше Новое Кино
 http://95.66.188.74/NasheNovoeKino/mono.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/74/logo_256_1658736167.png",Иллюзион+
-http://cdn.admuspeh.my/8134/video.m3u8?token=NVbvJ28N26iEqQiP
+#EXTINF:-1 group-title="Кино",Остросюжетное HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://s.pokaz.me/TdpUaSceRHzlTfkPsTSCNA/578/1767316514/index.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/5930.png",Кино ТВ
-http://31.148.48.15/Kino_TV_HD/index.m3u8
+#EXTINF:-1 group-title="Кино",НТВ ХИТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://s.pokaz.me/GzxAhTTzuEW6wF0LtcbBkg/508/1767316658/index.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/119/logo_128_1652790001.png",Русский Иллюзион
-http://cdn.admuspeh.my/8132/video.m3u8?token=NVbvJ28N26iEqQiP
-
-#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/8314.png",Любимое кино
-http://cdn.admuspeh.my/8946/video.m3u8?token=NVbvJ28N26iEqQiP
+#EXTINF:-1 group-title="Кино",НТВ СЕРИАЛ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://s.pokaz.me/K3n1miwWglP3e33SXcxZxw/509/1767316686/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14498/logo_256_1660800255.png",.Black
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
