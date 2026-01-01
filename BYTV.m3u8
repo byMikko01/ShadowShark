@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="http://myott.top/api/epg.xml.gz"
 #EXTM3U url-tvg="https://github.com/iFrez/EPG-EdemTV/raw/master/edem.xml.gz"
-#EXTM3U url-tvg="https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/tv4epg.xml,https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/tv4ru.xml"
 
 #EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/105/logo_128.webp" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал +2
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -130,10 +129,10 @@ http://cdn.admuspeh.my/8398/video.m3u8?token=NVbvJ28N26iEqQiP
 #EXTINF:-1 group-title="Кино",START World
 http://109.248.236.51/start_world_hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://dbtv.ru/upload/icons/cineman-musw.png",CineMan Ментовские войны
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://dbtv.ru/upload/icons/cineman-musw.png",Ментовские войны
 http://cdn.admuspeh.my/8802/video.m3u8?token=NVbvJ28N26iEqQiP
 
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://m3u.admuspeh.my/icon/cineman-svaty.png",Cineman Сваты
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://m3u.admuspeh.my/icon/cineman-svaty.png",Сваты
 http://cdn.admuspeh.my/8825/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/5013.png",Карусель
@@ -141,8 +140,8 @@ http://cdn.admuspeh.my/8825/video.m3u8?token=NVbvJ28N26iEqQiP
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/77/logo_256.webp",Солнце
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://s.pokaz.me/QFLZmXk_fM_a4O2C3N11Qw/154/1767290310/index.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/9170.png",Ani
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
