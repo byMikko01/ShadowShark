@@ -166,6 +166,10 @@ http://31.148.48.15/Detskiy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjYgM
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/4299.png",О!
 http://95.66.188.74:80/O/mono.m3u8
 
+#EXTINF:-1 group-title="Детские",NickToons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://river-3-346.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/5QXjnj9zv-NqOdJsCJFAnw/1767877525/1def800119e755c93466f903f37d72a4/720p_stream.m3u8
+
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://karnei4.github.io/convert/img/8805.png",Музыка Первого
 http://91.207.115.228:5000/c123
 
