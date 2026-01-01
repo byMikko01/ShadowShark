@@ -1,9 +1,9 @@
-#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
-#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz"
+#EXTM3U url-tvg="http://myott.top/api/epg.xml.gz"
 #EXTM3U url-tvg="https://github.com/iFrez/EPG-EdemTV/raw/master/edem.xml.gz"
+#EXTM3U url-tvg="https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/tv4epg.xml,https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/tv4ru.xml"
 
 #EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/105/logo_128.webp" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал +2
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_128.webp",Россия 1 +2
@@ -11,35 +11,35 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10100/logo_128.webp" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ +2
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/3/logo_128.webp" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал +2
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/78/logo_128.webp" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Карусель +2
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/113/logo_128.webp" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РЕН ТВ +2
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/126/logo_128.webp" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС +2
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/67/logo_128.webp" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний +2
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/136/logo_128.webp" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ +2
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/93/logo_128.webp" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МУЗ-ТВ +2
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/2851.png",Дом Кино
@@ -124,34 +124,28 @@ http://193.25.8.59:8000/amedia1
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/7515.png",Amedia 2
 http://193.25.8.59:8000/amedia2
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://www.kartina.tv/storage/contents/23644/.png",START Air
+#EXTINF:-1 group-title="Кино",START Air
 http://cdn.admuspeh.my/8398/video.m3u8?token=NVbvJ28N26iEqQiP
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://pic.rutubelist.ru/user/2024-09-27/19/2b/192b643b0295f044cbcf77486911c78a.jpg",START World
+#EXTINF:-1 group-title="Кино",START World
 http://109.248.236.51/start_world_hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="https://dbtv.ru/upload/icons/cineman-musw.png",CineMan Ментовские войны
 http://cdn.admuspeh.my/8802/video.m3u8?token=NVbvJ28N26iEqQiP
 
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://i124.fastpic.org/big/2025/0304/2c/930f3fcde26e11a3322ed8f37b89952c.png",Триколор Ментовские войны
-http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/18128/index.m3u8
-
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="https://m3u.admuspeh.my/icon/cineman-svaty.png",Cineman Сваты
 http://cdn.admuspeh.my/8825/video.m3u8?token=NVbvJ28N26iEqQiP
 
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://kino-static.tricolor.ru/media/v2/e005bbb9-8ef7-4bbd-8ecc-b006aa7a5415",Смешарики
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzkwODEvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiMTYwMSIsInQiOiI2MzczODNlMzA3NGI4MGZlMDA5MDNhZTNjZDNlODNjMCIsImQiOiI0NDE1NDYiLCJyIjoiNDUzNDM2IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi85MDgxL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
-
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/5013.png",Карусель
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/77/logo_256.webp",Солнце
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/9170.png",Ani
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://stv.mediacdn.ru/live/cdn/ani/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/9985.png",Мульт
@@ -163,23 +157,21 @@ https://minsk-cache07t.voka.tv/live/6007-req_offset_28000000-req_window_0-4k_v5.
 https://minsk-cache01t.voka.tv/live/5108-req_offset_28000000-req_window_0-3k_v5.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/9375.png",В гостях у сказки
-http://45.145.32.13:20440/sony_turbo/index.m3u8?token=test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://s.pokaz.me/ilVSDy0c7XnWzr7A_ul_Rg/550/1767290020/index.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/5438.png",Уникум
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://vod1.stb.tvime.ru/Unikum/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+http://31.148.48.15/Detskiy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjYgMTI6MzQ6MzcgUE0maGFzaF92YWx1ZT14SnVMZy9qTVlreUwvdlF4cTl4RGJRPT0mdmFsaWRtaW51dGVzPTU=
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/4299.png",О!
 http://95.66.188.74:80/O/mono.m3u8
 
-#EXTINF:-1 group-title="Детские" tvg-logo="https://kino-static.tricolor.ru/media/v2/e005bbb9-8ef7-4bbd-8ecc-b006aa7a5415",Смешарики
-http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/18136/index.m3u8
-
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://karnei4.github.io/convert/img/8805.png",Музыка Первого
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Muz_Perv
+http://91.207.115.228:5000/c123
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://karnei4.github.io/convert/img/1806.png",МУЗ-ТВ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://karnei4.github.io/convert/img/5778.png",RU TV
@@ -187,98 +179,12 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://karnei4.github.io/convert/img/4248.png",ЖАРА
-http://31.148.48.15:80/Zhara/index.m3u8
+http://62.89.220.15/streams/media/zhara_720x576/index.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10162/logo_256_1660804483.png",БСТ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/135/logo_256_1658737912.png",ТНВ-Татарстан
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
-
-#EXTINF:-1 group-title="Запасные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_128.webp" tvg-id="Россия 1",Россия 1
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-
-#EXTINF:-1 group-title="Запасные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_128.webp" tvg-id="Россия 1 (+2)",Россия 1 +2
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-
-#EXTINF:-1 group-title="Запасные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_128.webp" tvg-id="Россия 1 (+2)",Россия 1 +2 №2
-http://cdn.admuspeh.my/8426/video.m3u8?token=NVbvJ28N26iEqQiP
-
-#EXTINF:-1 group-title="Films",Алёша Попович и Тугарин Змей
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Alesha_Popovich_i_Tugarin_Zmej_2004/stream.m3u8
-
-#EXTINF:-1 group-title="Films",Добрыня Никитич и Змей Горыныч
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Dobrynja_Nikitich_i_Zmej_Gorynych_2006/stream.m3u8 
-
-#EXTINF:-1 group-title="Films",Илья Муромец и Соловей Разбойник
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Iljya_Muromec_i_Solovej_Razbojnik_2007/stream.m3u8
-
-#EXTINF:-1 group-title="Films",Три богатыря и Шамаханская царица
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://mults.info/mp4/tri_bogatyrya_i_shamahanskaya_tsaritsa.mp4
-
-#EXTINF:-1 group-title="Films",Три богатыря на дальних берегах
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://mults.info/mp4/tri_bogatyrya_na_dalnih_beregah.mp4
-
-#EXTINF:-1 group-title="Films",Три богатыря: Ход конем
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://mults.info/mp4/tri_bogatyrya_hod_konem.mp4
-
-#EXTINF:-1 group-title="Films",Три богатыря и Морской царь
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://weyland.z.superdupercdn.com/movies/2bc64f0cc582757c1ae4755ca057d9d3cfc18339/0d7f9e227d7278f0d2aad7484e1818d4:2025123100/hls.m3u8
-
-#EXTINF:-1 group-title="Films",Три богатыря и принцесса Египта
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://midgard.z.superdupercdn.com/movies/e87adf686ab0760670bb6bf160d67fd14e34b4a1/63932d9e7ab524e4488b2c3126fbda81:2025123100/hls.m3u8
-
-#EXTINF:-1 group-title="Films",Три богатыря и Наследница престола
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://matrix.z.superdupercdn.com/movies/5c50c2fff8561f4b03660bd15bc1450596c8959f/1b8be0c74689d5627c42086d3c69d5fa:2025123100/720.mp4:hls:manifest.m3u8
-
-#EXTINF:-1 group-title="Films",Конь Юлий и большие скачки
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://rock.z.superdupercdn.com/movies/329c0f06093ef4ca3efab18b1488be34e7a30feb/fb12b03a92df0f842890f52bebf1a13a:2025123100/hls.m3u8
-
-#EXTINF:-1 group-title="Films",Три Богатыря и Конь на Троне
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://uranium.z.superdupercdn.com/movies/0e35785a6c8151cd0b7792794b22fb8b48cada3c/b979b09937ab611a1e375206daf3a183:2025123100/720.mp4:hls:manifest.m3u8
-
-#EXTINF:-1 group-title="Films",Три Богатыря и Пуп Земли
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://ember.z.superdupercdn.com/movies/dda77da17d7247a085da826625039e038d3f9db9/bcf9df7bc4fa226ffa8cc7272a37cff3:2025123100/hls.m3u8
-
-#EXTINF:-1 group-title="Films",Три Богатыря. Ни дня без подвига
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://ember.z.superdupercdn.com/movies/6eac721f634a0ca80bb03a4f711e84546fe85b90/b75c95286efcdec51d074a7d70198e2f:2025123100/hls.m3u8
-
-#EXTINF:-1 group-title="Films",Иван Царевич и Серый Волк
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://rock.z.superdupercdn.com/movies/6a217038b11b0fe4dd70d091fd83745c3590667e/7d9abe057e2ec88a78eab389992b37cb:2025123100/hls.m3u8
-
-#EXTINF:-1 group-title="Films",Иван Царевич и Серый Волк 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://ember.z.superdupercdn.com/movies/034be4abf2c4a48f36ef3e0b362854476b9fe4db/540f029978502887b8a9ec01c3f5917c:2025123100/hls.m3u8
-
-#EXTINF:-1 group-title="Films",Иван Царевич и Серый Волк 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://mimin.z.superdupercdn.com/movies/f4883997ca243f73e11717b5b8a4190a9e4a3479/b56fbbdb1e0ea7f498863b5ba6585094:2025123100/hls.m3u8
-
-#EXTINF:-1 group-title="Films",Иван Царевич и Серый Волк 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://ember.z.superdupercdn.com/movies/1b1db0fc7154e024de71c0df8e3c39c8b778f41f/7fbaeac3c7c6d49c8a25090538764eae:2025123100/hls.m3u8
-
-#EXTINF:-1 group-title="Films",Иван Царевич и Серый Волк 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://ember.z.superdupercdn.com/movies/5fcadcf542c54738154f0d62eeb2516c8c5928be/237eb5943acbacc6c7b514e1ba6beb4d:2025123100/hls.m3u8
-
-#EXTINF:-1 group-title="Films",Иван Царевич и Серый Волк 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://913-f8a-406gv.stream-balancer-allo-1.live/M2/0/1/1767141608/7CTMYvaAjToJB3Y1jFCk5A/4/480/1/1007372/index-f1-v1.m3u8
