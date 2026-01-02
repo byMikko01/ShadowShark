@@ -101,7 +101,7 @@ http://95.66.188.74/NasheNovoeKino/mono.m3u8
 
 #EXTINF:-1 group-title="Кино",Остросюжетное HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://s.pokaz.me/TdpUaSceRHzlTfkPsTSCNA/578/1767316514/index.m3u8
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E1:2E&stream=529631&extension=ts
 
 #EXTINF:-1 group-title="Кино",НТВ ХИТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
@@ -151,6 +151,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/77/logo_256.webp",Солнце
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://tv.mediacdn.ru/live/solntse/playlist_2000k.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/9170.png",Ani
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
