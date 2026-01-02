@@ -80,7 +80,7 @@ https://minsk-cache03t.voka.tv/live/5106-req_offset_28000000-req_window_0-3k_v5.
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/5930.png",Кино ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://tv.tvcdnpotok.com/b6n4jIQuu-THxGrJDsMaZA/504/1767390825/index.m3u8
+https://strm.yandex.ru/live/4/vh-cloud-video-live-converted/vplsgfychap5qdijxxlt/ysign1=4abc60659a5a4432d76640a4638534105134a0e0aef85b3d6e9583aa3226dd7f,abcID=1358,chID=vplc5wfxybuhhwwnoi2h,drm=2,drm_cid=4a32a0ea06d4f7acaecb5c1844712c1f,drm_owner=kp,dvr=300,episode=vplerw6vdy6s7k7myiid,from=ott-kp,pfx,sfx,start=1767292910,ts=695ab8c5/manifest.mpd?deranged=1&force_protection=wv&max_res_height=1080&mburl=1&min_res_height=300&offset=-10&packager=1&source_index=1&subs=1&vpuid=fhhz3jvr46&vsid=02f9e5898c2f36c6fbacd96cf367636de639e62e568axFLMx5170x1767380420
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/8314.png",Любимое кино
 http://cdn.admuspeh.my/8946/video.m3u8?token=NVbvJ28N26iEqQiP
