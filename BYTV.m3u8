@@ -43,13 +43,14 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/2851.png",Дом Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://minsk-cache02t.voka.tv/live/5105-req_offset_28000000-req_window_0-3k_v5.m3u8
+https://streaming.goodstream.icu/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10136/logo_256_1658734780.png",Родное кино
 http://178.212.71.253:8000/play/136/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/7525.png",Русский бестселлер
-http://91.207.115.228:5000/c34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://vod.splay.uz/live_splay/original/RusskiyBesteler/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/6590.png",Русский детектив
 http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
@@ -61,16 +62,20 @@ http://95.66.188.74/RusRoman/mono.m3u8
 http://cdn.admuspeh.my/8132/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино",viju TV1000
-http://91.207.115.228:5000/c48
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://minsk-cache03t.voka.tv/live/5107-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 #EXTINF:-1 group-title="Кино",viju TV1000 русское
-http://91.207.115.228:5000/c37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://minsk-cache01t.voka.tv/live/5109-req_offset_28000000-req_window_0-3k_v5.m3u8
 
 #EXTINF:-1 group-title="Кино",viju TV1000 action
-http://91.207.115.228:5000/c49
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://minsk-cache03t.voka.tv/live/5106-req_offset_28000000-req_window_0-3k_v5.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/5930.png",Кино ТВ
-http://31.148.48.15/Kino_TV_HD/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://tv.tvcdnpotok.com/b6n4jIQuu-THxGrJDsMaZA/504/1767390825/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/8314.png",Любимое кино
 http://cdn.admuspeh.my/8946/video.m3u8?token=NVbvJ28N26iEqQiP
@@ -127,10 +132,10 @@ https://minsk-cache01t.voka.tv/live/207-req_offset_28000000-req_window_0-aud-0k_
 http://193.25.8.59:8000/tlc
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/7386.png",Amedia 1
-http://91.207.115.228:5000/c55
+http://193.25.8.59:8000/amedia1
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/7515.png",Amedia 2
-http://91.207.115.228:5000/c56
+http://193.25.8.59:8000/amedia2
 
 #EXTINF:-1 group-title="Кино",START Air
 http://cdn.admuspeh.my/8398/video.m3u8?token=NVbvJ28N26iEqQiP
@@ -167,7 +172,7 @@ https://minsk-cache01t.voka.tv/live/5108-req_offset_28000000-req_window_0-3k_v5.
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/9375.png",В гостях у сказки
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://s.pokaz.me/ilVSDy0c7XnWzr7A_ul_Rg/550/1767290020/index.m3u8
+
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/5438.png",Уникум
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
@@ -175,10 +180,6 @@ http://31.148.48.15/Detskiy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjYgM
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/4299.png",О!
 http://95.66.188.74:80/O/mono.m3u8
-
-#EXTINF:-1 group-title="Детские",NickToons
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://tv.tvcdnpotok.com/SO_JfBQ0hCorcV8Eih7fpg/155/1767291244/index.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://karnei4.github.io/convert/img/8805.png",Музыка Первого
 http://91.207.115.228:5000/c123
