@@ -59,6 +59,10 @@ http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/3574.png",Русский Роман
 http://95.66.188.74/RusRoman/mono.m3u8
 
+#EXTINF:-1 group-title="Кино" tvg-logo="https://yootv.online/icons/4167.png",Русская Комедия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://strm.yandex.ru/live/1/vh-cloud-video-live-converted/vplsi2w6u6sdiortcgzc/ysign1=a38afde04984d088892b491b4034c40f31fe403ee7507dc29975ee4b485ca0e5,abcID=1358,chID=vplc5wfxybuhhwwnoi2h,drm=2,drm_cid=4f2804aa996ef2c7a5d3e5cd52dd14f0,drm_owner=kp,dvr=300,episode=vplekxje7gv67hdwu6vr,from=ott-kp,pfx,sfx,start=1767222730,ts=695ab76e/manifest.mpd?max_res_height=1080&min_res_height=300&packager=1&vsid=8eee9b1f4d1be1bdf0c380200259baf85f84ff1cd97cxFLMx5170x1767380077&source_index=1&vpuid=fhhz3jvr46&mburl=1&subs=1&deranged=1&force_protection=wv
+
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/119/logo_128_1652790001.png",Русский Иллюзион
 http://cdn.admuspeh.my/8132/video.m3u8?token=NVbvJ28N26iEqQiP
 
