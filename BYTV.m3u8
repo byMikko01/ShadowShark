@@ -180,7 +180,7 @@ https://strm.yandex.ru/live/1/vh-cloud-video-live-converted/vplsezcz7el7myhd56mb
 http://31.148.48.15/Detskiy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjYgMTI6MzQ6MzcgUE0maGFzaF92YWx1ZT14SnVMZy9qTVlreUwvdlF4cTl4RGJRPT0mdmFsaWRtaW51dGVzPTU=
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/4299.png",О!
-http://95.66.188.74:80/O/mono.m3u8
+https://strm.yandex.ru/live/1/vh-cloud-video-live-converted/vplsphsawqh5z5he3db3/ysign1=a1d70414f4d77bd5526182fba3b1586bf5560f797b3cb5f3be5f735c52c9528a,abcID=1358,chID=vplc5wfxybuhhwwnoi2h,end=1767383700,episode=vplenoawh2wvsnjhxgjq,from=ott-kp,pfx,sfx,start=1767378600,ts=695ab1e7/manifest.mpd?min_res_height=240&packager=1&vsid=54fbb18506cd948e1915762d497f017d4b7bc74304eexFLMx5170x1767378658&source_index=3&vpuid=fhhz3jvr46&mburl=1&subs=1&deranged=1
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://karnei4.github.io/convert/img/8805.png",Музыка Первого
 http://91.207.115.228:5000/c123
