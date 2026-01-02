@@ -61,7 +61,7 @@ http://95.66.188.74/RusRoman/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://yootv.online/icons/4167.png",Русская Комедия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://strm.yandex.ru/live/1/vh-cloud-video-live-converted/vplsi2w6u6sdiortcgzc/ysign1=a38afde04984d088892b491b4034c40f31fe403ee7507dc29975ee4b485ca0e5,abcID=1358,chID=vplc5wfxybuhhwwnoi2h,drm=2,drm_cid=4f2804aa996ef2c7a5d3e5cd52dd14f0,drm_owner=kp,dvr=300,episode=vplekxje7gv67hdwu6vr,from=ott-kp,pfx,sfx,start=1767222730,ts=695ab76e/manifest.mpd?max_res_height=1080&min_res_height=300&packager=1&vsid=8eee9b1f4d1be1bdf0c380200259baf85f84ff1cd97cxFLMx5170x1767380077&source_index=1&vpuid=fhhz3jvr46&mburl=1&subs=1&deranged=1&force_protection=wv
+https://strm.yandex.ru/live/1/vh-cloud-video-live-converted/vplsi2w6u6sdiortcgzc/ysign1=f94fe61d6f16463d996f44338bb17e8d963c8d0c07e85e08587e22697d2f0ac3,abcID=1358,chID=vplc5wfxybuhhwwnoi2h,drm=2,drm_cid=4f2804aa996ef2c7a5d3e5cd52dd14f0,drm_owner=kp,dvr=300,episode=vplekxje7gv67hdwu6vr,from=ott-kp,pfx,sfx,start=1767222730,ts=695ab873/manifest.mpd?deranged=1&force_protection=wv&max_res_height=1080&mburl=1&min_res_height=300&offset=5&packager=1&source_index=1&subs=1&vpuid=fhhz3jvr46&vsid=604ed16fb3a7ab29941b0a590cf7d58ca0bfada50a08xFLMx5170x1767380339
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/119/logo_128_1652790001.png",Русский Иллюзион
 http://cdn.admuspeh.my/8132/video.m3u8?token=NVbvJ28N26iEqQiP
@@ -175,7 +175,7 @@ https://minsk-cache07t.voka.tv/live/6007-req_offset_28000000-req_window_0-4k_v5.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://minsk-cache01t.voka.tv/live/5108-req_offset_28000000-req_window_0-3k_v5.m3u8
 
-#EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/9375.png",В гостях у сказки Yandex
+#EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/9375.png",В гостях у сказки
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://strm.yandex.ru/live/1/vh-cloud-video-live-converted/vplsezcz7el7myhd56mb/ysign1=29afda5401fdb2f884a0e637dd3395a901f3d18f14f2b439d8e2b1461d4292ea,abcID=1358,chID=vplc5wfxybuhhwwnoi2h,dvr=300,episode=vplerfgllzxtcpmhn7dt,from=ott-kp,pfx,sfx,start=1767142200,ts=695ab132/manifest.mpd?deranged=1&max_res_height=1080&mburl=1&min_res_height=300&offset=-20&packager=1&source_index=1&subs=1&vpuid=fhhz3jvr46&vsid=9357ad97d50fbeb3fb09c480d08548f16a19dceb4794xFLMx5170x1767378482
 
@@ -183,7 +183,7 @@ https://strm.yandex.ru/live/1/vh-cloud-video-live-converted/vplsezcz7el7myhd56mb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://31.148.48.15/Detskiy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjYgMTI6MzQ6MzcgUE0maGFzaF92YWx1ZT14SnVMZy9qTVlreUwvdlF4cTl4RGJRPT0mdmFsaWRtaW51dGVzPTU=
 
-#EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/4299.png",О! Yandex
+#EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/4299.png",О!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://strm.yandex.ru/live/1/vh-cloud-video-live-converted/vplsphsawqh5z5he3db3/ysign1=a1d70414f4d77bd5526182fba3b1586bf5560f797b3cb5f3be5f735c52c9528a,abcID=1358,chID=vplc5wfxybuhhwwnoi2h,end=1767383700,episode=vplenoawh2wvsnjhxgjq,from=ott-kp,pfx,sfx,start=1767378600,ts=695ab1e7/manifest.mpd?min_res_height=240&packager=1&vsid=54fbb18506cd948e1915762d497f017d4b7bc74304eexFLMx5170x1767378658&source_index=3&vpuid=fhhz3jvr46&mburl=1&subs=1&deranged=1
 
