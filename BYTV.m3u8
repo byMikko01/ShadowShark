@@ -78,9 +78,9 @@ https://minsk-cache03t.voka.tv/live/5106.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/5930.png",Кино ТВ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://cdn.admuspeh.my/8034/video.m3u8?token=NVbvJ28N26iEqQiP
+http://cdn.admuspeh.my/8207/video.m3u8?token=NVbvJ28N26iEqQiP
 
-#EXTINF:-1 group-title="Кино" tvg-id="Наше любимое кино" tvg-logo="https://karnei4.github.io/convert/img/8314.png",Любимое кино
+#EXTINF:-1 group-title="Кино" tvg-id="Любимое кино" tvg-logo="https://karnei4.github.io/convert/img/8314.png",Любимое кино
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 http://cdn.admuspeh.my/8946/video.m3u8?token=NVbvJ28N26iEqQiP
 
@@ -202,11 +202,11 @@ https://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/2229.png",Мультиландия
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-https://minsk-cache07t.voka.tv/live/5108.m3u8
+http://cdn.admuspeh.my/8056/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/9375.png",В гостях у сказки
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-https://s.pokaz.me/c0lFTemZ69vM1GMj6kxlkg/550/1767468825/index.m3u8
+http://cdn.admuspeh.my/8133/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/5438.png",Уникум
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
