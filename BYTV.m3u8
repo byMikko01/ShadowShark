@@ -1,8 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-
 #EXTM3U url-tvg="https://epg.admuspeh.my/epg.xml.gz"
-
-#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="Первый канал (+2)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/105/logo_128.webp",Первый канал +2
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -60,6 +57,10 @@ https://vod.splay.uz/live_splay/original/RusskiyDetektiv/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://vod.splay.uz/live_splay/original/RusskiyBesteler/mono.m3u8
 
+#EXTINF:-1 group-title="Кино" tvg-logo="https://yootv.online/icons/4167.png",Русская комедия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+http://95.66.188.74/Comedia/mono.m3u8
+
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/119/logo_128_1652790001.png",Русский Иллюзион
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://edge08-alm.beetv.kz/bpk-token/3an@14mzhwh3tf5yohtl2c0aezspmxwhl4r312cj2vca/bpk-tv/000004207/tve/index.m3u8?bkm-query
@@ -80,7 +81,7 @@ https://minsk-cache03t.voka.tv/live/5106-req_offset_28000000-req_window_0-3k_v5.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://31.148.48.15/Kino_TV/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-id="Любимое кино HD" tvg-logo="https://karnei4.github.io/convert/img/8314.png",Любимое кино
+#EXTINF:-1 group-title="Кино" tvg-id="Наше любимое кино" tvg-logo="https://karnei4.github.io/convert/img/8314.png",Наше любимое кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://edge05-alm.beetv.kz/bpk-token/3an@4my5w5sdb5141mdmn0okaq5n5vhd4x3x4mxu45ca/bpk-tv/000000283/tve/index.m3u8?bkm-query
 
