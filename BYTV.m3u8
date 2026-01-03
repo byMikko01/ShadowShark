@@ -1,6 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTM3U url-tvg="http://epg.ru-tv.site/14.xml"
-#EXTM3U url-tvg="https://epg.admuspeh.my/epg.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/edem.xml.gz,https://epg.admuspeh.my/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="Первый канал (+2)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/105/logo_128.webp",Первый канал +2
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -44,7 +42,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/2851.png",Дом Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-http://176.96.241.40/DomKino/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/3574.png",Русский Роман
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
