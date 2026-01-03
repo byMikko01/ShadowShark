@@ -44,26 +44,26 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/2851.png",Дом Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://minsk-cache01t.voka.tv/live/5105-req_offset_28000000-req_window_0-3k_v5.m3u8
+https://bl.webcaster.pro/file/playlist/api_free_6ec7df5a403562102800c22e55e8c7ee/37_3262301494/1080/ec5bf346b921e17a5ad4518dcac8fc7f/4834133281.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10136/logo_256_1658734780.png",Родное кино
-http://178.212.71.253:8000/play/136/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+http://87.76.32.36:8001/rodnoekino
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/7525.png",Русский бестселлер
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://vod.splay.uz/live_splay/original/RusskiyBesteler/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/6590.png",Русский детектив
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/3574.png",Русский Роман
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://95.66.188.74/RusRoman/mono.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://yootv.online/icons/4167.png",Русская Комедия
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://strm.yandex.ru/live/1/vh-cloud-video-live-converted/vplsi2w6u6sdiortcgzc/ysign1=f94fe61d6f16463d996f44338bb17e8d963c8d0c07e85e08587e22697d2f0ac3,abcID=1358,chID=vplc5wfxybuhhwwnoi2h,drm=2,drm_cid=4f2804aa996ef2c7a5d3e5cd52dd14f0,drm_owner=kp,dvr=300,episode=vplekxje7gv67hdwu6vr,from=ott-kp,pfx,sfx,start=1767222730,ts=695ab873/manifest.mpd?deranged=1&force_protection=wv&max_res_height=1080&mburl=1&min_res_height=300&offset=5&packager=1&source_index=1&subs=1&vpuid=fhhz3jvr46&vsid=604ed16fb3a7ab29941b0a590cf7d58ca0bfada50a08xFLMx5170x1767380339
-
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/119/logo_128_1652790001.png",Русский Иллюзион
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://cdn.admuspeh.my/8132/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино",viju TV1000
@@ -80,38 +80,55 @@ https://minsk-cache03t.voka.tv/live/5106-req_offset_28000000-req_window_0-3k_v5.
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/5930.png",Кино ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://strm.yandex.ru/live/4/vh-cloud-video-live-converted/vplsgfychap5qdijxxlt/ysign1=4abc60659a5a4432d76640a4638534105134a0e0aef85b3d6e9583aa3226dd7f,abcID=1358,chID=vplc5wfxybuhhwwnoi2h,drm=2,drm_cid=4a32a0ea06d4f7acaecb5c1844712c1f,drm_owner=kp,dvr=300,episode=vplerw6vdy6s7k7myiid,from=ott-kp,pfx,sfx,start=1767292910,ts=695ab8c5/manifest.mpd?deranged=1&force_protection=wv&max_res_height=1080&mburl=1&min_res_height=300&offset=-10&packager=1&source_index=1&subs=1&vpuid=fhhz3jvr46&vsid=02f9e5898c2f36c6fbacd96cf367636de639e62e568axFLMx5170x1767380420
+http://cdn.admuspeh.my/8207/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/8314.png",Любимое кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://cdn.admuspeh.my/8946/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/17039/logo_256_1681191678.png",Сапфир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://31.148.48.15/Sapfir/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10342/logo_256_1658734729.png",Киномикс HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://95.66.188.74/Kinomiks/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10373/logo_256_1658734849.png",Киносемья HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://cdn.admuspeh.my/8047/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10375/logo_256_1658734901.png",Кинохит HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://178.212.71.253:8000/play/123/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10374/logo_256_1658736669.png",Киносвидание
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://178.212.71.253:8000/play/122/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10372/logo_256_1658734797.png",Кинопремьера HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://178.212.71.253:8000/play/125/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10376/logo_256_1658736938.png",Мужское кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10343/logo_256_1658737066.png",Наше Новое Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://95.66.188.74/NasheNovoeKino/mono.m3u8
+
+#EXTINF:-1 group-title="Кино",Кинопоказ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Остросюжетное HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E1:2E&stream=529631&extension=ts
+
+#EXTINF:-1 group-title="Кино",Премиальное HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+http://cdn.admuspeh.my/8028/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино",НТВ ХИТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
@@ -134,15 +151,19 @@ https://minsk-cache03t.voka.tv/live/1400-req_offset_28000000-req_window_0-1k_v5.
 https://minsk-cache01t.voka.tv/live/207-req_offset_28000000-req_window_0-aud-0k_v5.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/12040/logo_256_1655390551.png",Timeless Dizi Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://193.25.8.59:8000/tlc
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/7386.png",Amedia 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://193.25.8.59:8000/amedia1
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/7515.png",Amedia 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://193.25.8.59:8000/amedia2
 
 #EXTINF:-1 group-title="Кино",START Air
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://cdn.admuspeh.my/8398/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино",START World
@@ -183,9 +204,13 @@ https://strm.yandex.ru/live/1/vh-cloud-video-live-converted/vplsezcz7el7myhd56mb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://31.148.48.15/Detskiy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjYgMTI6MzQ6MzcgUE0maGFzaF92YWx1ZT14SnVMZy9qTVlreUwvdlF4cTl4RGJRPT0mdmFsaWRtaW51dGVzPTU=
 
-#EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/4299.png",О!
+#EXTINF:-1 group-title="Детские" tvg-logo="https://yootv.online/icons/4299.png",О!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://strm.yandex.ru/live/1/vh-cloud-video-live-converted/vplsphsawqh5z5he3db3/ysign1=a1d70414f4d77bd5526182fba3b1586bf5560f797b3cb5f3be5f735c52c9528a,abcID=1358,chID=vplc5wfxybuhhwwnoi2h,end=1767383700,episode=vplenoawh2wvsnjhxgjq,from=ott-kp,pfx,sfx,start=1767378600,ts=695ab1e7/manifest.mpd?min_res_height=240&packager=1&vsid=54fbb18506cd948e1915762d497f017d4b7bc74304eexFLMx5170x1767378658&source_index=3&vpuid=fhhz3jvr46&mburl=1&subs=1&deranged=1
+https://bl.webcaster.pro/file/playlist/api_free_d0f98af3933f6b16a6c800db7a8611a4_hd/37_9850383658/1080/a8367ab6e19dd06f5d335c9acbaa4618/4762333726.m3u8
+
+#EXTINF:-1 group-title="Детские" tvg-logo="https://yootv.online/icons/9295.png",Детский мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://s209.glaz.tv:8082/liveg/dmir.stream/l_2893990_31240920_6247.ts?nimblesessionid=408329254&wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjYgMTI6NDE6MDEgUE0maGFzaF92YWx1ZT1rbkQxWnZseXk3Wkd2dklsazJOYnpBPT0mdmFsaWRtaW51dGVzPTIwMA==
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://karnei4.github.io/convert/img/8805.png",Музыка Первого
 http://91.207.115.228:5000/c123
