@@ -198,7 +198,7 @@ https://minsk-cache01t.voka.tv/live/5108-req_offset_28000000-req_window_0-3k_v5.
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/9375.png",В гостях у сказки
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://strm.yandex.ru/live/1/vh-cloud-video-live-converted/vplsezcz7el7myhd56mb/ysign1=29afda5401fdb2f884a0e637dd3395a901f3d18f14f2b439d8e2b1461d4292ea,abcID=1358,chID=vplc5wfxybuhhwwnoi2h,dvr=300,episode=vplerfgllzxtcpmhn7dt,from=ott-kp,pfx,sfx,start=1767142200,ts=695ab132/manifest.mpd?deranged=1&max_res_height=1080&mburl=1&min_res_height=300&offset=-20&packager=1&source_index=1&subs=1&vpuid=fhhz3jvr46&vsid=9357ad97d50fbeb3fb09c480d08548f16a19dceb4794xFLMx5170x1767378482
+http://cdn.admuspeh.my/8133/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/5438.png",Уникум
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
@@ -206,14 +206,15 @@ http://31.148.48.15/Detskiy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjYgM
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://yootv.online/icons/4299.png",О!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://bl.webcaster.pro/file/playlist/api_free_d0f98af3933f6b16a6c800db7a8611a4_hd/37_9850383658/1080/a8367ab6e19dd06f5d335c9acbaa4618/4762333726.m3u8
+https://minsk-cache05i.voka.tv/live/3013-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://yootv.online/icons/9295.png",Детский мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://s209.glaz.tv:8082/liveg/dmir.stream/l_2893990_31240920_6247.ts?nimblesessionid=408329254&wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjYgMTI6NDE6MDEgUE0maGFzaF92YWx1ZT1rbkQxWnZseXk3Wkd2dklsazJOYnpBPT0mdmFsaWRtaW51dGVzPTIwMA==
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://karnei4.github.io/convert/img/8805.png",Музыка Первого
-http://91.207.115.228:5000/c123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+https://bl.webcaster.pro/file/start/api_free_3e2f9b8b13ac00bd66bacc8821e0d46a/37_7629457535/cca3e2c6f8474d04ee96007a2fbfca99/4834133281.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://karnei4.github.io/convert/img/1806.png",МУЗ-ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -224,6 +225,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://karnei4.github.io/convert/img/4248.png",ЖАРА
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://62.89.220.15/streams/media/zhara_720x576/index.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10162/logo_256_1660804483.png",БСТ
