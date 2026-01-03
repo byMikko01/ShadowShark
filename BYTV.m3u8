@@ -1,46 +1,46 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 
+#EXTM3U url-tvg="https://epg.admuspeh.my/epg.xml.gz"
+
 #EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz"
 
-#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
-
-#EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/105/logo_128.webp",Первый канал (+2)
+#EXTINF:-1 tvg-id="Первый канал (+2)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/105/logo_128.webp",Первый канал +2
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_128.webp",Россия 1 (+2)
+#EXTINF:-1 tvg-id="Россия 1 (+2)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_128.webp",Россия 1 +2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10100/logo_128.webp",НТВ (+2)
+#EXTINF:-1 tvg-id="НТВ (+2)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10100/logo_128.webp",НТВ +2 
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/3/logo_128.webp",Пятый канал (+2)
+#EXTINF:-1 tvg-id="Пятый канал (+2)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/3/logo_128.webp",Пятый канал +2
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/78/logo_128.webp",Карусель (+2)
+#EXTINF:-1 tvg-id="Карусель (+2)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/78/logo_128.webp",Карусель +2
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/113/logo_128.webp",РЕН ТВ (+2)
+#EXTINF:-1 tvg-id="РЕН ТВ (+2)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/113/logo_128.webp",РЕН ТВ +2
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/126/logo_128.webp",СТС (+2)
+#EXTINF:-1 tvg-id="СТС (+2)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/126/logo_128.webp",СТС +2
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/67/logo_128.webp",Домашний (+2)
+#EXTINF:-1 tvg-id="Домашний (+2)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/67/logo_128.webp",Домашний +2
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/136/logo_128.webp",ТНТ (+2)
+#EXTINF:-1 tvg-id="ТНТ (+2)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/136/logo_128.webp",ТНТ +2
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/93/logo_128.webp",МУЗ-ТВ (+2)
+#EXTINF:-1 tvg-id="МУЗ-ТВ (+2)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/93/logo_128.webp",МУЗ-ТВ +2
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
@@ -80,7 +80,7 @@ https://minsk-cache03t.voka.tv/live/5106-req_offset_28000000-req_window_0-3k_v5.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://31.148.48.15/Kino_TV/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/8314.png",Наше Любимое кино
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/8314.png",Любимое кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://edge05-alm.beetv.kz/bpk-token/3an@4my5w5sdb5141mdmn0okaq5n5vhd4x3x4mxu45ca/bpk-tv/000000283/tve/index.m3u8?bkm-query
 
@@ -120,7 +120,7 @@ https://vod.splay.uz/live_splay/original/Nashe_novoe_kino/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://195.158.223.132:8008/Rodnoe_Kino
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://yootv.online/icons/9591.png",Кинопоказ
+#EXTINF:-1 group-title="Кино" tvg-logo="https://yootv.online/icons/9591.png",КиноПоказ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://95.66.188.74/Kinopokaz/mono.m3u8
 
