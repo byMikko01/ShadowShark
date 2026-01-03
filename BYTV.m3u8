@@ -46,15 +46,15 @@ http://cdn.admuspeh.my/8136/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/3574.png",Русский Роман
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://95.66.188.74/RusRoman/mono.m3u8
+http://cdn.admuspeh.my/8010/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/6590.png",Русский детектив
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-https://vod.splay.uz/live_splay/original/RusskiyDetektiv/mono.m3u8
+http://cdn.admuspeh.my/8161/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/7525.png",Русский бестселлер
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-https://vod.splay.uz/live_splay/original/RusskiyBesteler/mono.m3u8
+http://cdn.admuspeh.my/8162/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://yootv.online/icons/4167.png",Русская комедия
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
@@ -62,7 +62,7 @@ http://95.66.188.74/Comedia/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/119/logo_128_1652790001.png",Русский Иллюзион
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-https://edge08-alm.beetv.kz/bpk-token/3an@14mzhwh3tf5yohtl2c0aezspmxwhl4r312cj2vca/bpk-tv/000004207/tve/index.m3u8?bkm-query
+http://cdn.admuspeh.my/8132/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://yootv.online/icons/1411.png",viju TV1000
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
@@ -78,11 +78,11 @@ https://minsk-cache03t.voka.tv/live/5106.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/5930.png",Кино ТВ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://31.148.48.15/Kino_TV/tracks-v1a1/mono.ts.m3u8
+http://cdn.admuspeh.my/8034/video.m3u8?token=NVbvJ28N26iEqQiP
 
-#EXTINF:-1 group-title="Кино" tvg-id="Наше любимое кино" tvg-logo="https://karnei4.github.io/convert/img/8314.png",Наше любимое кино
+#EXTINF:-1 group-title="Кино" tvg-id="Наше любимое кино" tvg-logo="https://karnei4.github.io/convert/img/8314.png",Любимое кино
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-https://edge05-alm.beetv.kz/bpk-token/3an@4my5w5sdb5141mdmn0okaq5n5vhd4x3x4mxu45ca/bpk-tv/000000283/tve/index.m3u8?bkm-query
+http://cdn.admuspeh.my/8946/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/17039/logo_256_1681191678.png",Сапфир
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
@@ -90,35 +90,35 @@ http://31.148.48.15/Sapfir/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10342/logo_256_1658734729.png",Киномикс
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://93.170.254.17/Kinomiks/index.m3u8
+http://cdn.admuspeh.my/8040/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10373/logo_256_1658734849.png",Киносемья
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-https://vod.splay.uz/live_splay/original/Kinosemya/index.m3u8
+http://cdn.admuspeh.my/8047/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10375/logo_256_1658734901.png",Кинохит
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://195.158.223.132:8008/Kinohit
+http://cdn.admuspeh.my/8039/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10374/logo_256_1658736669.png",Киносвидание
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://93.170.254.17/Kinosvidanie/index.m3u8
+http://cdn.admuspeh.my/8041/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10372/logo_256_1658734797.png",Кинопремьера
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-https://vod.splay.uz/live_splay/original/Kinopremera/mono.m3u8
+http://cdn.admuspeh.my/8199/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10376/logo_256_1658736938.png",Мужское кино
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
+http://cdn.admuspeh.my/8070/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10343/logo_256_1658737066.png",Наше Новое Кино
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-https://vod.splay.uz/live_splay/original/Nashe_novoe_kino/tracks-v1a1/mono.m3u8
+http://cdn.admuspeh.my/8044/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10136/logo_256_1658734780.png",Родное кино
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://195.158.223.132:8008/Rodnoe_Kino
+http://cdn.admuspeh.my/8096/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://yootv.online/icons/9591.png",КиноПоказ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
@@ -153,7 +153,7 @@ https://minsk-cache06i.voka.tv/live/1400.m3u8
 https://minsk-cache07t.voka.tv/live/207.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/12040/logo_256_1655390551.png",Timeless Dizi Channel
-#EXTVLCOPT:http-user-agent=MX Player Pro/1.7.35
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 http://193.25.8.59:8000/tlc
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/7386.png",Amedia 1
@@ -170,7 +170,7 @@ http://cdn.admuspeh.my/8398/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/start-world.png",Start World
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-https://cors.aivo.ai/livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+http://cdn.admuspeh.my/8402/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кинозалы" tvg-id="CineMan Ментовские войны FHD" tvg-logo="https://dbtv.ru/upload/icons/cineman-musw.png",Ментовские войны
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
