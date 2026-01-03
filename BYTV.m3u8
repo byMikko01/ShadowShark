@@ -80,7 +80,7 @@ https://minsk-cache03t.voka.tv/live/5106-req_offset_28000000-req_window_0-3k_v5.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://31.148.48.15/Kino_TV/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/8314.png",Любимое кино
+#EXTINF:-1 group-title="Кино" tvg-id="Любимое кино HD" tvg-logo="https://karnei4.github.io/convert/img/8314.png",Любимое кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 https://edge05-alm.beetv.kz/bpk-token/3an@4my5w5sdb5141mdmn0okaq5n5vhd4x3x4mxu45ca/bpk-tv/000000283/tve/index.m3u8?bkm-query
 
