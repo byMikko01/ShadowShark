@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/edem.xml.gz,https://epg.admuspeh.my/epg.xml.gz,http://ru.epg.one/epg2.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/edem.xml.gz,https://epg.admuspeh.my/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="Первый канал (+2)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/105/logo_128.webp",Первый канал +2
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -78,7 +78,7 @@ https://minsk-cache04i.voka.tv/live/5106.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/5930.png",Кино ТВ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://allway.space/iptv/users/Mikko/584.m3u8
+http://cdn.admuspeh.my/8207/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-id="Любимое кино HD" tvg-logo="https://karnei4.github.io/convert/img/8314.png",Любимое кино
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
@@ -142,7 +142,7 @@ https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14498/logo_256_1660800255.png",.Black
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://95.66.188.74/.black/index.m3u8
+https://minsk-cache02t.voka.tv/live/3001.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14484/logo_256_1660800271.png",.Red
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
