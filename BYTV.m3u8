@@ -56,7 +56,7 @@ http://cdn.admuspeh.my/8161/video.m3u8?token=NVbvJ28N26iEqQiP
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 http://cdn.admuspeh.my/8162/video.m3u8?token=NVbvJ28N26iEqQiP
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://yootv.online/icons/4167.png",Русская комедия
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/4167.png",Русская комедия
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 http://95.66.188.74/Comedia/mono.m3u8
 
@@ -64,17 +64,29 @@ http://95.66.188.74/Comedia/mono.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 http://cdn.admuspeh.my/8132/video.m3u8?token=NVbvJ28N26iEqQiP
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://yootv.online/icons/1411.png",viju TV1000
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/1411.png",viju TV1000
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 http://176.96.241.40/TV1000/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://yootv.online/icons/1502.png",viju TV1000 русское
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/1502.png",viju TV1000 русское
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 https://minsk-cache01t.voka.tv/live/5109.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://yootv.online/icons/9080.png",viju TV1000 action
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/9080.png",viju TV1000 action
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 https://minsk-cache03t.voka.tv/live/5106.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://clck.ru/3R97KZ",viju+ Comedy
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.2
+http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://clck.ru/3R97Sq",viju+ Megahit
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
+https://edge03-alm.beetv.kz/bpk-token/3an@qdg5edn5y2tmefftautx4m4jgs2qzhziqlv0e4da/bpk-tv/000000869/tve/index.m3u8?bkm-query
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://clck.ru/3R97Xa",viju+ Premiere
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
+https://edge01-alm.beetv.kz/bpk-token/3an@yegak0z30aijhhsesd5hqmauudgrbqsoyuhekhda/bpk-tv/000000868/tve/index.m3u8?bkm-query
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/5930.png",Кино ТВ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
@@ -120,19 +132,19 @@ http://cdn.admuspeh.my/8044/video.m3u8?token=NVbvJ28N26iEqQiP
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 http://cdn.admuspeh.my/8096/video.m3u8?token=NVbvJ28N26iEqQiP
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://yootv.online/icons/9591.png",КиноПоказ
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/9591.png",Кинопоказ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 http://95.66.188.74/Kinopokaz/mono.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://yootv.online/icons/6659.png",Остросюжетное
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/6659.png",Остросюжетное
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E1:2E&stream=529631&extension=ts
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://yootv.online/icons/4505.png",Премиальное
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/4505.png",Премиальное
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgwMjgvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiMjgiLCJ0IjoiNjM3MzgzZTMwNzRiODBmZTAwOTAzYWUzY2QzZTgzYzAiLCJkIjoiNDQxNTQ2IiwiciI6IjQ1MzQzNiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MDI4L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://yootv.online/icons/1445.png",НТВ ХИТ
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/1445.png",НТВ ХИТ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 
