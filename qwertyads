@@ -66,15 +66,15 @@ http://cdn.admuspeh.my/8132/video.m3u8?token=NVbvJ28N26iEqQiP
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/1411.png",viju TV1000
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://allway.space/iptv/users/Mikko/577.m3u8
+https://minsk-cache05i.voka.tv/live/5107.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/1502.png",viju TV1000 русское
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://allway.space/iptv/users/Mikko/570.m3u8
+https://minsk-cache01t.voka.tv/live/5109.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/9080.png",viju TV1000 action
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://allway.space/iptv/users/Mikko/521.m3u8
+https://minsk-cache04i.voka.tv/live/5106.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/5930.png",Кино ТВ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
