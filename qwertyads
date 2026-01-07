@@ -172,7 +172,7 @@ http://cdn.admuspeh.my/8398/video.m3u8?token=NVbvJ28N26iEqQiP
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 http://cdn.admuspeh.my/8402/video.m3u8?token=NVbvJ28N26iEqQiP
 
-#EXTINF:-1 group-title="Кинозалы" tvg-id="6355" tvg-logo="http://epg.one/img/6355.png",Триколор Ментовские войны
+#EXTINF:-1 group-title="Кинозалы" tvg-id="6355" tvg-logo="https://kino-static.tricolor.ru/media/v2/7a8bf54f-6245-4eaf-85c2-108394642d9f",Триколор Ментовские войны
 http://allway.space/iptv/users/Mikko/958.m3u8
 
 #EXTINF:-1 group-title="Кинозалы" tvg-id="CineMan Ментовские войны FHD" tvg-logo="https://dbtv.ru/upload/icons/cineman-musw.png",Ментовские войны
