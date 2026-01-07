@@ -80,6 +80,14 @@ https://minsk-cache04i.voka.tv/live/5106.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgyMDcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiMTk1IiwidCI6IjYzNzM4M2UzMDc0YjgwZmUwMDkwM2FlM2NkM2U4M2MwIiwiZCI6IjQ0MTU0NiIsInIiOiI0NTM0MzYiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MjA3L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/4416.png",Душевное
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
+http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgyOTYvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiMjM1IiwidCI6IjYzNzM4M2UzMDc0YjgwZmUwMDkwM2FlM2NkM2U4M2MwIiwiZCI6IjQ0MTU0NiIsInIiOiI0NTM0MzYiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84Mjk2L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/7262.png",Романтичное
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
+http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJsIjoiYjBkOGQ4MzciLCJwIjoiYjBkOGQ4Mzc3YjMzZWY1NCIsImMiOiI5OTUiLCJ0IjoiNjM3MzgzZTMwNzRiODBmZTAwOTAzYWUzY2QzZTgzYzAiLCJkIjoiNDQxNTQ2IiwiciI6IjQ1MzQzNiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84OTQ4L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
+
 #EXTINF:-1 group-title="Кино" tvg-id="Любимое кино HD" tvg-logo="https://karnei4.github.io/convert/img/8314.png",Любимое кино
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJsIjoiYjBkOGQ4MzciLCJwIjoiYjBkOGQ4Mzc3YjMzZWY1NCIsImMiOiI5OTMiLCJ0IjoiNjM3MzgzZTMwNzRiODBmZTAwOTAzYWUzY2QzZTgzYzAiLCJkIjoiNDQxNTQ2IiwiciI6IjQ1MzQzNiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84OTQ2L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
