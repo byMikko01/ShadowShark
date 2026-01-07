@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/edem.xml.gz,https://epg.admuspeh.my/epg.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/edem.xml.gz,https://epg.admuspeh.my/epg.xml.gz,http://ru.epg.one/epg2.xml.gz"
 
 #EXTINF:-1 tvg-id="Первый канал (+2)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/105/logo_128.webp",Первый канал +2
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
