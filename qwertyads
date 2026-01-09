@@ -172,7 +172,7 @@ http://tv.lamro.workers.dev/?ID=5081
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 http://tv.lamro.workers.dev/?ID=5082
 
-#EXTINF:0 group-title="Кино" tvg-id="6355" tvg-logo="https://kino-static.tricolor.ru/media/v2/7a8bf54f-6245-4eaf-85c2-108394642d9f" tvg-rec="0",Триколор Ментовские войны
+#EXTINF:-1 group-title="Кинозалы" tvg-id="6355" tvg-logo="https://kino-static.tricolor.ru/media/v2/7a8bf54f-6245-4eaf-85c2-108394642d9f" tvg-rec="0",Триколор Ментовские войны
 #EXTVLCOPT:http-user-agent=TricolorOnline/2.13.0.1536/Android TV
 http://allway.space/iptv/users/Mikko/958.m3u8
 
@@ -180,11 +180,11 @@ http://allway.space/iptv/users/Mikko/958.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 http://cdn.admuspeh.my/8825/video.m3u8?token=NVbvJ28N26iEqQiP
 
-#EXTINF:0 group-title="Кино" tvg-id="6363" tvg-logo="https://kino-static.tricolor.ru/media/v2/e005bbb9-8ef7-4bbd-8ecc-b006aa7a5415" tvg-rec="0",Триколор Смешарики
+#EXTINF:-1 group-title="Кинозалы" tvg-id="6363" tvg-logo="https://kino-static.tricolor.ru/media/v2/e005bbb9-8ef7-4bbd-8ecc-b006aa7a5415" tvg-rec="0",Триколор Смешарики
 #EXTVLCOPT:http-user-agent=TricolorOnline/2.13.0.1536/Android TV
 http://allway.space/iptv/users/Mikko/966.m3u8
 
-#EXTINF:0 group-title="Кино" tvg-id="6359" tvg-logo="https://kino-static.tricolor.ru/media/v2/586f665b-3f92-4677-8283-c62b2fa5e1a1" tvg-rec="0",Триколор Три Богатыря
+#EXTINF:-1 group-title="Кинозалы" tvg-id="6359" tvg-logo="https://kino-static.tricolor.ru/media/v2/586f665b-3f92-4677-8283-c62b2fa5e1a1" tvg-rec="0",Триколор Три Богатыря
 #EXTVLCOPT:http-user-agent=TricolorOnline/2.13.0.1536/Android TV
 http://allway.space/iptv/users/Mikko/962.m3u8
 
