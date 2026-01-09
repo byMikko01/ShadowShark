@@ -62,7 +62,7 @@ http://176.118.197.101/Komediya/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/119/logo_128_1652790001.png",Русский Иллюзион
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-https://edge08-alm.beetv.kz/bpk-token/3an@kk0l2j1blprh3e2q0gtcnuxyt4ss4cp0kiu1hkca/bpk-tv/000004207/tve/000004207-audio_82882_rus=82400-video=562400-460390932.ts
+https://vod1.stb.tvime.ru/russkiiilliuzion/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/1411.png",viju TV1000
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
@@ -70,7 +70,7 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/1502.png",viju TV1000 русское
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-https://edge06-alm.beetv.kz/bpk-token/3an@zjp35keo3v5lrfxz2wcfk405vao0l5xcz5zwxkaa/bpk-tv/000003748/tve/000003748-audio_82882_rus=82400-video=2137600.m3u8
+http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgwNTAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiNDgiLCJ0IjoiNjM3MzgzZTMwNzRiODBmZTAwOTAzYWUzY2QzZTgzYzAiLCJkIjoiNDQxNTQ2IiwiciI6IjQ1MzQzNiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MDUwL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/9080.png",viju TV1000 action
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
@@ -78,23 +78,23 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tra
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/5930.png",Кино ТВ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://31.148.48.15/Kino_TV/tracks-v1a1/mono.ts.m3u8
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="Любимое кино HD" tvg-logo="https://karnei4.github.io/convert/img/8314.png",Любимое кино
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://176.118.197.101/LubimoeKino/index.m3u8
+https://tv.tvcdnpotok.com/SfybFMWz9roGNaJYvIF-2w/534/1767982615/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/17039/logo_256_1681191678.png",Сапфир
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://cdn.admuspeh.my/8169/video.m3u8?token=NVbvJ28N26iEqQiP
+http://31.148.48.15/Sapfir/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10342/logo_256_1658734729.png",Киномикс
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://176.118.197.101/Kinomix/index.m3u8
+http://95.66.188.74/Kinomiks/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10373/logo_256_1658734849.png",Киносемья
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://2.57.217.85:8000/play/a05v/index.m3u8
+http://tv.lamro.workers.dev/?ID=5088
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10375/logo_256_1658734901.png",Кинохит
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
@@ -122,7 +122,7 @@ http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4M
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/9591.png",Кинопоказ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://31.148.48.15/Kinopokaz/index.m3u8
+http://95.66.188.74/Kinopokaz/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/6659.png",Остросюжетное
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
@@ -204,8 +204,8 @@ https://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
 http://95.66.188.74/Multilandia/mono.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/9375.png",В гостях у сказки
-#EXTVLCOPT:http-user-agent=Peers.TV/7.16.18 Android/11
-http://api.peers.tv/timeshift/v_gostyah_u_skazki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njc5NDUyNjUsImlhdCI6MTc2Nzg1ODg2NSwiY2lkIjo2LCJ1aWQiOjk4NjQ0ODYzNywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.yk5XrHgMmn9OO0LYaIn6bt_IJFvoDmCAriaMxapCW5s&offset=10
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
+https://stream08.sputnik24.tv/skazka_hd/index.m3u8?sig=1767995232_0374e313a23ef366e5806edc00a066a6
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/5438.png",Уникум
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
