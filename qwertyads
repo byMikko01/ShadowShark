@@ -42,7 +42,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/2851.png",Дом Кино
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-https://flussonic.salomtv.uz/domkino/video.m3u8
+http://tv.lamro.workers.dev/?ID=3188
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/3574.png",Русский Роман
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
@@ -80,7 +80,7 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tra
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-id="Любимое кино HD" tvg-logo="https://karnei4.github.io/convert/img/8314.png",Любимое кино
+#EXTINF:-1 group-title="Кино" tvg-id="Любимое кино HD" tvg-logo="https://karnei4.github.io/convert/img/8420.png",Любимое
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 http://tv.lamro.workers.dev/?ID=4937
 
@@ -98,11 +98,11 @@ http://tv.lamro.workers.dev/?ID=5088
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10375/logo_256_1658734901.png",Кинохит
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://cdn.admuspeh.my/8039/video.m3u8?token=NVbvJ28N26iEqQiP
+http://tv.lamro.workers.dev/?ID=5089
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10374/logo_256_1658736669.png",Киносвидание
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://tv.lamro.workers.dev/?ID=5087
+http://tv.lamro.workers.dev/?ID=5090
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10372/logo_256_1658734797.png",Кинопремьера
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
@@ -178,6 +178,12 @@ http://allway.space/iptv/users/Mikko/958.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-id="CineMan Ментовские войны FHD" tvg-logo="https://dbtv.ru/upload/icons/cineman-musw.png",CineMan Ментовские войны
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzg4MDIvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiMTEwNCIsInQiOiI2MzczODNlMzA3NGI4MGZlMDA5MDNhZTNjZDNlODNjMCIsImQiOiI0NDE1NDYiLCJyIjoiNDUzNDM2IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84ODAyL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
+
+#EXTINF:0 group-title="Кино" tvg-id="6363" tvg-logo="http://epg.one/img/6363.png" tvg-rec="0",Триколор Смешарики
+http://allway.space/iptv/users/Mikko/966.m3u8
+
+#EXTINF:0 group-title="Кино" tvg-id="6359" tvg-logo="http://epg.one/img/6359.png" tvg-rec="0",Триколор Три кота
+http://allway.space/iptv/users/Mikko/962.m3u8
 
 #EXTINF:-1 group-title="Кинозалы" tvg-id="CineMan Сваты FHD" tvg-logo="https://epg.iptvx.one/picons/cineman-svaty.png",Сваты
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
