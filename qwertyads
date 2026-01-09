@@ -172,22 +172,21 @@ http://tv.lamro.workers.dev/?ID=5081
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 http://tv.lamro.workers.dev/?ID=5082
 
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://kino-static.tricolor.ru/media/v2/7a8bf54f-6245-4eaf-85c2-108394642d9f",Триколор Ментовские войны
+#EXTINF:0 group-title="Кино" tvg-id="6355" tvg-logo="https://kino-static.tricolor.ru/media/v2/7a8bf54f-6245-4eaf-85c2-108394642d9f" tvg-rec="0",Триколор Ментовские войны
+#EXTVLCOPT:http-user-agent=TricolorOnline/2.13.0.1536/Android TV
 http://allway.space/iptv/users/Mikko/958.m3u8
-
-#EXTINF:-1 group-title="Кинозалы" tvg-id="CineMan Ментовские войны FHD" tvg-logo="https://dbtv.ru/upload/icons/cineman-musw.png",CineMan Ментовские войны
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzg4MDIvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiMTEwNCIsInQiOiI2MzczODNlMzA3NGI4MGZlMDA5MDNhZTNjZDNlODNjMCIsImQiOiI0NDE1NDYiLCJyIjoiNDUzNDM2IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84ODAyL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
-
-#EXTINF:0 group-title="Кино" tvg-id="6363" tvg-logo="http://epg.one/img/6363.png" tvg-rec="0",Триколор Смешарики
-http://allway.space/iptv/users/Mikko/966.m3u8
-
-#EXTINF:0 group-title="Кино" tvg-id="6359" tvg-logo="http://epg.one/img/6359.png" tvg-rec="0",Триколор Три кота
-http://allway.space/iptv/users/Mikko/962.m3u8
 
 #EXTINF:-1 group-title="Кинозалы" tvg-id="CineMan Сваты FHD" tvg-logo="https://epg.iptvx.one/picons/cineman-svaty.png",Сваты
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 http://cdn.admuspeh.my/8825/video.m3u8?token=NVbvJ28N26iEqQiP
+
+#EXTINF:0 group-title="Кино" tvg-id="6363" tvg-logo="https://kino-static.tricolor.ru/media/v2/e005bbb9-8ef7-4bbd-8ecc-b006aa7a5415" tvg-rec="0",Триколор Смешарики
+#EXTVLCOPT:http-user-agent=TricolorOnline/2.13.0.1536/Android TV
+http://allway.space/iptv/users/Mikko/966.m3u8
+
+#EXTINF:0 group-title="Кино" tvg-id="6359" tvg-logo="https://kino-static.tricolor.ru/media/v2/586f665b-3f92-4677-8283-c62b2fa5e1a1" tvg-rec="0",Триколор Три Богатыря
+#EXTVLCOPT:http-user-agent=TricolorOnline/2.13.0.1536/Android TV
+http://allway.space/iptv/users/Mikko/962.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/5013.png",Карусель
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
