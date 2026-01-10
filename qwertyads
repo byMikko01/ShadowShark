@@ -50,7 +50,7 @@ http://tv.lamro.workers.dev/?ID=4612
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/6590.png",Русский детектив
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russkiy_detektiv
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/7525.png",Русский бестселлер
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
@@ -178,7 +178,7 @@ http://allway.space/iptv/users/Mikko/958.m3u8
 
 #EXTINF:-1 group-title="Кинозалы" tvg-id="CineMan Сваты FHD" tvg-logo="https://epg.iptvx.one/picons/cineman-svaty.png",Сваты
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://cdn.admuspeh.my/8825/video.m3u8?token=NVbvJ28N26iEqQiP
+http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzg4MjUvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiMTA5OCIsInQiOiI2MzczODNlMzA3NGI4MGZlMDA5MDNhZTNjZDNlODNjMCIsImQiOiI0NDE1NDYiLCJyIjoiNDUzNDM2IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84ODI1L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 
 #EXTINF:-1 group-title="Кинозалы" tvg-id="6363" tvg-logo="https://kino-static.tricolor.ru/media/v2/e005bbb9-8ef7-4bbd-8ecc-b006aa7a5415" tvg-rec="0",Триколор Смешарики
 #EXTVLCOPT:http-user-agent=TricolorOnline/2.13.0.1536/Android TV
@@ -214,7 +214,7 @@ http://tv.lamro.workers.dev/?ID=4882
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/5438.png",Уникум
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-https://flussonic.salomtv.uz/Detskiy/tracks-v1a1/mono.m3u8
+http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgwNjcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiNjUiLCJ0IjoiNjM3MzgzZTMwNzRiODBmZTAwOTAzYWUzY2QzZTgzYzAiLCJkIjoiNDQxNTQ2IiwiciI6IjQ1MzQzNiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MDY3L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://yootv.online/icons/4299.png",О!
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
