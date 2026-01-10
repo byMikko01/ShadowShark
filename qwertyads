@@ -120,17 +120,21 @@ http://tv.lamro.workers.dev/?ID=3792
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
 http://tv.lamro.workers.dev/?ID=3208
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/9591.png",Кинопоказ
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/2159.png",Наш Кинопоказ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://tv.lamro.workers.dev/?ID=4053
+http://cdn.voka.tv/live/285-req_5k_v5.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/6659.png",Остросюжетное
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://tv.lamro.workers.dev/?ID=4748
+https://vs6.cdn.mrf.tvime.ru/Ostrosugetnor_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/4505.png",Премиальное
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://tv.lamro.workers.dev/?ID=4988
+https://vs6.cdn.mrf.tvime.ru/Premialnoe_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/7262.png",Романтичное
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
+https://vs6.cdn.mrf.tvime.ru/Romantichnoe_HD/tracks-a1/mono.m3u8?token=billing_wfc4fdIM3ow=
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/1445.png",НТВ ХИТ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
@@ -206,7 +210,7 @@ https://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/2229.png",Мультиландия
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-https://minsk-cache01t.voka.tv/live/5108-req_offset_28000000-req_window_0-3k_v5.m3u8
+http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgwNTYvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiNTQiLCJ0IjoiNjM3MzgzZTMwNzRiODBmZTAwOTAzYWUzY2QzZTgzYzAiLCJkIjoiNDQxNTQ2IiwiciI6IjQ1MzQzNiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MDU2L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/9375.png",В гостях у сказки
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
