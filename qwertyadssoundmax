@@ -1,31 +1,31 @@
-#EXTINF:-1 Первый канал +2
+#EXTINF:-1 group-title="ЦТВ",Первый канал +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
 
-#EXTINF:-1 Россия 1 +2
+#EXTINF:-1 group-title="ЦТВ",Россия 1 +2
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 
-#EXTINF:-1 НТВ +2 
+#EXTINF:-1 group-title="ЦТВ",НТВ +2 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
 
-#EXTINF:-1 Пятый канал +2
+#EXTINF:-1 group-title="ЦТВ",Пятый канал +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
 
-#EXTINF:-1 Карусель +2
+#EXTINF:-1 group-title="ЦТВ",Карусель +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 
-#EXTINF:-1 РЕН ТВ +2
+#EXTINF:-1 group-title="ЦТВ",РЕН ТВ +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
 
-#EXTINF:-1 СТС +2
+#EXTINF:-1 group-title="ЦТВ",СТС +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
 
-#EXTINF:-1 Домашний +2
+#EXTINF:-1 group-title="ЦТВ",Домашний +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
 
-#EXTINF:-1 ТНТ +2
+#EXTINF:-1 group-title="ЦТВ",ТНТ +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 
-#EXTINF:-1 МУЗ-ТВ +2
+#EXTINF:-1 group-title="ЦТВ",МУЗ-ТВ +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
 #EXTINF:-1 group-title="Кино",Дом Кино
