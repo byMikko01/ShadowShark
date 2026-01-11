@@ -47,16 +47,16 @@ http://176.96.241.40/DomKino/index.m3u8
 http://178.163.2.228:4022/udp/234.0.0.224:2000
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/6590.png",Русский детектив
-http://31.148.48.15/Russkiy_Detektiv/index.m3u8
+http://tinyurl.com/TvZaTak35/RusskiyDetektiv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/7525.png",Русский бестселлер
-http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.ts.m3u8
+http://tinyurl.com/TvZaTak35/RusskiyBesteler/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/4167.png",Русская комедия
 http://176.118.197.101/Komediya/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/119/logo_128_1652790001.png",Русский Иллюзион
-http://31.148.48.15:80/Russkiy_illusion/index.m3u8
+http://178.163.2.228:4022/udp/234.0.0.178:2000
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/1411.png",viju TV1000
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=uvExutPkbf3-bl5Tz8feIA&e=1768216059&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
