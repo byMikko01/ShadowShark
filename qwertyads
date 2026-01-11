@@ -46,7 +46,7 @@ http://176.96.241.40/DomKino/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/3574.png",Русский Роман
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-https://vod1.stb.tvime.ru/russkiiroman/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+http://vod.tuva.ru/rusroman/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/6590.png",Русский детектив
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
@@ -62,7 +62,7 @@ http://176.118.197.101/Komediya/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/119/logo_128_1652790001.png",Русский Иллюзион
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-https://vod1.stb.tvime.ru/russkiiilliuzion/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+http://31.148.48.15:80/Russkiy_illusion/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/1411.png",viju TV1000
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
@@ -82,7 +82,6 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="Любимое кино HD" tvg-logo="https://karnei4.github.io/convert/img/8420.png",Любимое кино
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-https://84.54.128.52:9090/play/a002/64561305.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/17039/logo_256_1681191678.png",Сапфир
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
@@ -94,11 +93,11 @@ https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10373/logo_256_1658734849.png",Киносемья
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://vod1.stb.tvime.ru/Kinosemia_HD/video.m3u8?token=billing_6WJDKE9cG25U
+https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10375/logo_256_1658734901.png",Кинохит
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://158.101.222.193:88/georgia_play.php?id=kinohit
+https://vod.splay.uz/live_splay/original/Kinoxit/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10374/logo_256_1658736669.png",Киносвидание
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
@@ -106,15 +105,15 @@ http://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10372/logo_256_1658734797.png",Кинопремьера
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://vod1.stb.tvime.ru/Kinopremera_HD/video.m3u8?token=billing_6WJDKE9cG25U
+https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10376/logo_256_1658736938.png",Мужское кино
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://vod1.stb.tvime.ru/Muzhskoe_Kino/video.m3u8?token=billing_6WJDKE9cG25U
+http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgwNzAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiNjgiLCJ0IjoiNjM3MzgzZTMwNzRiODBmZTAwOTAzYWUzY2QzZTgzYzAiLCJkIjoiNDQxNTQ2IiwiciI6IjQ1MzQzNiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MDcwL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10343/logo_256_1658737066.png",Наше Новое Кино
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://vod1.stb.tvime.ru/Nashe_Novoe_Kino_HD/video.m3u8?token=billing_6WJDKE9cG25U
+https://vod.splay.uz/live_splay/original/Nashe_novoe_kino/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10136/logo_256_1658734780.png",Родное кино
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
