@@ -110,15 +110,15 @@ http://vod1.stb.tvime.ru/Kinopremera_HD/video.m3u8?token=billing_6WJDKE9cG25U
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10376/logo_256_1658736938.png",Мужское кино
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://178.212.71.253:8000/play/126/index.m3u8
+http://vod1.stb.tvime.ru/Muzhskoe_Kino/video.m3u8?token=billing_6WJDKE9cG25U
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10343/logo_256_1658737066.png",Наше Новое Кино
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://tv.lamro.workers.dev/?ID=3792
+http://vod1.stb.tvime.ru/Nashe_Novoe_Kino_HD/video.m3u8?token=billing_6WJDKE9cG25U
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10136/logo_256_1658734780.png",Родное кино
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://tv.lamro.workers.dev/?ID=3208
+http://31.148.48.15/Rodnoe_kino/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/2159.png",Наш Кинопоказ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
