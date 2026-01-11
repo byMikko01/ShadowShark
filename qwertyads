@@ -68,7 +68,7 @@ http://31.148.48.15/TV1000_Russkoe_kino/tracks-v1a1/mono.ts.m3u8
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=g3a_GVQQWGx7BJjQCKghfA&e=1768216084&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/5930.png",Кино ТВ
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+http://31.148.48.15:80/Kino_TV/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/17039/logo_256_1681191678.png",Сапфир
 http://31.148.48.15/Sapfir/mono.ts.m3u8
