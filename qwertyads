@@ -210,15 +210,15 @@ https://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/2229.png",Мультиландия
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgwNTYvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiNTQiLCJ0IjoiNjM3MzgzZTMwNzRiODBmZTAwOTAzYWUzY2QzZTgzYzAiLCJkIjoiNDQxNTQ2IiwiciI6IjQ1MzQzNiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MDU2L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
+http://vod1.stb.tvime.ru/Multilandiia/video.m3u8?token=billing_6WJDKE9cG25U
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/9375.png",В гостях у сказки
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://tv.lamro.workers.dev/?ID=4882
+http://45.145.32.13:20440/sony_turbo/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/5438.png",Уникум
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgwNjcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiNjUiLCJ0IjoiNjM3MzgzZTMwNzRiODBmZTAwOTAzYWUzY2QzZTgzYzAiLCJkIjoiNDQxNTQ2IiwiciI6IjQ1MzQzNiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MDY3L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
+http://vod1.stb.tvime.ru/Unikum/video.m3u8?token=billing_6WJDKE9cG25U
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://yootv.online/icons/4299.png",О!
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
