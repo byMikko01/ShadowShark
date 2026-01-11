@@ -44,7 +44,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 http://176.96.241.40/DomKino/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/3574.png",Русский Роман
-http://vod.tuva.ru/rusroman/index.m3u8
+http://178.163.2.228:4022/udp/234.0.0.224:2000
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/6590.png",Русский детектив
 http://31.148.48.15/Russkiy_Detektiv/index.m3u8
