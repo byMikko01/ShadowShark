@@ -47,7 +47,7 @@ http://176.96.241.40/DomKino/index.m3u8
 http://vod.tuva.ru/rusroman/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/6590.png",Русский детектив
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russkiy_detektiv
+http://31.148.48.15/Russkiy_Detektiv/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/7525.png",Русский бестселлер
 http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.ts.m3u8
@@ -74,20 +74,19 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 http://31.148.48.15/Sapfir/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10342/logo_256_1658734729.png",Киномикс
-https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
+http://176.118.197.101/Kinomix/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10373/logo_256_1658734849.png",Киносемья
-https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.m3u8
+http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgwNDcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiNDUiLCJ0IjoiNjM3MzgzZTMwNzRiODBmZTAwOTAzYWUzY2QzZTgzYzAiLCJkIjoiNDQxNTQ2IiwiciI6IjQ1MzQzNiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MDQ3L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10375/logo_256_1658734901.png",Кинохит
 https://vod.splay.uz/live_splay/original/Kinoxit/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10374/logo_256_1658736669.png",Киносвидание
-http://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.m3u8
+http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgwNDEvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiMzkiLCJ0IjoiNjM3MzgzZTMwNzRiODBmZTAwOTAzYWUzY2QzZTgzYzAiLCJkIjoiNDQxNTQ2IiwiciI6IjQ1MzQzNiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MDQxL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10372/logo_256_1658734797.png",Кинопремьера
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9) KMPlayer/3.0.20
-https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
+http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgxOTkvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiMTg4IiwidCI6IjYzNzM4M2UzMDc0YjgwZmUwMDkwM2FlM2NkM2U4M2MwIiwiZCI6IjQ0MTU0NiIsInIiOiI0NTM0MzYiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MTk5L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10376/logo_256_1658736938.png",Мужское кино
 http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgwNzAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiNjgiLCJ0IjoiNjM3MzgzZTMwNzRiODBmZTAwOTAzYWUzY2QzZTgzYzAiLCJkIjoiNDQxNTQ2IiwiciI6IjQ1MzQzNiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MDcwL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
@@ -101,14 +100,14 @@ http://31.148.48.15/Rodnoe_kino/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/2159.png",Наш Кинопоказ
 http://cdn.voka.tv/live/285-req_5k_v5.m3u8
 
+#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/7262.png",Романтичное
+http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJsIjoiYjBkOGQ4MzciLCJwIjoiYjBkOGQ4Mzc3YjMzZWY1NCIsImMiOiI5OTUiLCJ0IjoiNjM3MzgzZTMwNzRiODBmZTAwOTAzYWUzY2QzZTgzYzAiLCJkIjoiNDQxNTQ2IiwiciI6IjQ1MzQzNiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84OTQ4L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
+
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/6659.png",Остросюжетное
-https://vs6.cdn.mrf.tvime.ru/Ostrosugetnor_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgxODQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiMTc0IiwidCI6IjYzNzM4M2UzMDc0YjgwZmUwMDkwM2FlM2NkM2U4M2MwIiwiZCI6IjQ0MTU0NiIsInIiOiI0NTM0MzYiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MTg0L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/4505.png",Премиальное
-https://vs6.cdn.mrf.tvime.ru/Premialnoe_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
-
-#EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/7262.png",Романтичное
-https://vs6.cdn.mrf.tvime.ru/Romantichnoe_HD/tracks-a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgwMjgvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiMjgiLCJ0IjoiNjM3MzgzZTMwNzRiODBmZTAwOTAzYWUzY2QzZTgzYzAiLCJkIjoiNDQxNTQ2IiwiciI6IjQ1MzQzNiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MDI4L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/1445.png",НТВ ХИТ
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
@@ -161,9 +160,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/77/logo_256.webp",Солнце
 https://tv.mediacdn.ru/live/solntse/playlist.m3u8
-
-#EXTINF:-1 group-title="Детские",Nick Jr
-http://84.54.128.52:9090/play/3005/index.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/9170.png",Ani
 https://stv.mediacdn.ru/live/cdn/ani/tracks-v1a1/mono.ts.m3u8
