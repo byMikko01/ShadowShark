@@ -41,10 +41,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/2851.png",Дом Кино
-http://193.25.8.59:8000/domkino
+http://176.96.241.40/DomKino/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/3574.png",Русский Роман
-http://31.148.48.15/Russkiy_Roman/tracks-v1a1/mono.m3u8
+http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2076/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/6590.png",Русский детектив
 http://31.148.48.15/Russkiy_Detektiv/tracks-v1a1/mono.m3u8
