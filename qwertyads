@@ -41,10 +41,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/2851.png",Дом Кино
-http://176.96.241.40/DomKino/index.m3u8
+https://streaming.skynetconnect.online/live/44.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/3574.png",Русский Роман
-http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2076/index.m3u8
+https://ext-strm-ruufa03rtk-01.strm.yandex.net/live/vplskmk2vlapbjvseguq/ysign2=dc03dc0fea8128421fe62b8d39cdf7108ffb076b2af1abc538d92c064d6f98d6,abcID=1358,bucket=vh-cloud-video-live-converted,chID=vplc5wfxybuhhwwnoi2h,cmaf=0,lid=1661,pfx,shard=2,stream_type=DASH,stream_uuid=vplskmk2vlapbjvseguq,tier=ott_757,ts=6974aeaa/ysign1=8cf5af957484f4c438b93657c9b586f788b40a5b58a8c823fa192d477e0f5971,drm=2,drm_cid=48cf25cbfec417a29a4df2369530a194,drm_owner=kp,fix_wv_pssh_exp=1,secret_version=ver-1,start=1768921200,ts=6974aeaa,vtrack=169_360p,ysign2/init-v1-x2.mp4?source_index=1&deranged=1&vsid=0909ae34903352c7648793f89f4bf6ba59cb21371260xFLMx5200x1769157136&packager=1&bufSize=0&t=1769157139181
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/6590.png",Русский детектив
 http://31.148.48.15/Russkiy_Detektiv/tracks-v1a1/mono.m3u8
@@ -86,13 +86,13 @@ http://158.101.222.193:88/georgia_play.php?id=kinohit
 http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgwNDEvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiMzkiLCJ0IjoiNjM3MzgzZTMwNzRiODBmZTAwOTAzYWUzY2QzZTgzYzAiLCJkIjoiNDQxNTQ2IiwiciI6IjQ1MzQzNiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MDQxL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10372/logo_256_1658734797.png",Кинопремьера
-http://178.124.179.122:8088/Kinopremiera/index.m3u8
+http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgxOTkvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiMTg4IiwidCI6IjYzNzM4M2UzMDc0YjgwZmUwMDkwM2FlM2NkM2U4M2MwIiwiZCI6IjQ0MTU0NiIsInIiOiI0NTM0MzYiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MTk5L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10376/logo_256_1658736938.png",Мужское кино
-http://195.191.208.11:8087/udp/238.9.64.209:1234
+http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgwNzAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiNjgiLCJ0IjoiNjM3MzgzZTMwNzRiODBmZTAwOTAzYWUzY2QzZTgzYzAiLCJkIjoiNDQxNTQ2IiwiciI6IjQ1MzQzNiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MDcwL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10343/logo_256_1658737066.png",Наше Новое Кино
-http://146.120.14.239:3001/play/a0ih
+http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgwNDQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiNDIiLCJ0IjoiNjM3MzgzZTMwNzRiODBmZTAwOTAzYWUzY2QzZTgzYzAiLCJkIjoiNDQxNTQ2IiwiciI6IjQ1MzQzNiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MDQ0L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10136/logo_256_1658734780.png",Родное кино
 http://31.148.48.15/Rodnoe_kino/tracks-v1a1/mono.m3u8
@@ -137,7 +137,7 @@ http://193.25.8.59:8000/amedia2
 https://cors.aivo.ai/livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/start-world.png",Start World
-https://cors.aivo.ai/livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+https://live-1-201.uma.media/stream/1089/HLS/ntvplus/hqssLvNoHSH-Tk2iGYZkAQ/1769172344/eyJzZXNzaW9uSWQiOiJjbU0yVHpaRFoyOUtTMk5UZFVoUlJ6SnNSbTlsUVZBelZrWktaWEUwZUdoa1dIaFZXWHBHV1RSS1JVVldiRUV3ZDFONEswbzRVV1JEWVROVFFURlNZbG8yV21Vd2RXRkRWM0kxVVdWbmNHSkxORGN3TlhjOVBRPT0iLCJ1c2VySWQiOiI1ZDM1ODI0MzUxYzIxYTM3YWQ3YTA2ZWYifQ/1089-1080p.m3u8
 
 #EXTINF:-1 group-title="Кинозалы" tvg-id="6355" tvg-logo="https://kino-static.tricolor.ru/media/v2/7a8bf54f-6245-4eaf-85c2-108394642d9f" tvg-rec="0",Триколор Ментовские войны
 #EXTVLCOPT:http-user-agent=TricolorOnline/2.13.0.1536/Android TV
@@ -172,14 +172,11 @@ https://stv.mediacdn.ru/live/cdn/ani/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/9985.png",Мульт
 https://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Детские",Кино Мульт
-http://cdn.voka.tv/live/157-req_5k_v5.m3u8
-
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/2229.png",Мультиландия
-http://178.163.2.228:4022/udp/234.0.0.152:2000
+http://bax.oktv.uz:2025/channel/4dd6770c/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/9375.png",В гостях у сказки
-http://178.163.2.228:4022/udp/234.0.0.248:2000
+http://bax.oktv.uz:2025/channel/435f42b0/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/5438.png",Уникум
 http://178.163.121.127:4022/udp/234.0.0.217:2000
