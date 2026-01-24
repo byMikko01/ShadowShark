@@ -116,13 +116,13 @@ https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14498/logo_256_1660800255.png",.Black
-http://cdn.voka.tv/live/3001-req_5k_v5.m3u8
+http://176.118.197.125/Black/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14484/logo_256_1660800271.png",.Red
-http://cdn.voka.tv/live/1400-req_5k_v5.m3u8
+http://193.25.8.59:8000/set
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14491/logo_256_1660800286.png",.Sci-Fi
-http://cdn.voka.tv/live/207-req_5k_v5.m3u8
+http://193.25.8.59:8000/axn
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/12040/logo_256_1655390551.png",Timeless Dizi Channel
 http://193.25.8.59:8000/tlc
@@ -137,7 +137,7 @@ http://193.25.8.59:8000/amedia2
 https://cors.aivo.ai/livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/start-world.png",Start World
-https://live-1-201.uma.media/stream/1089/HLS/ntvplus/hqssLvNoHSH-Tk2iGYZkAQ/1769172344/eyJzZXNzaW9uSWQiOiJjbU0yVHpaRFoyOUtTMk5UZFVoUlJ6SnNSbTlsUVZBelZrWktaWEUwZUdoa1dIaFZXWHBHV1RSS1JVVldiRUV3ZDFONEswbzRVV1JEWVROVFFURlNZbG8yV21Vd2RXRkRWM0kxVVdWbmNHSkxORGN3TlhjOVBRPT0iLCJ1c2VySWQiOiI1ZDM1ODI0MzUxYzIxYTM3YWQ3YTA2ZWYifQ/1089-1080p.m3u8
+https://cors.aivo.ai/livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 
 #EXTINF:-1 group-title="Кинозалы" tvg-id="6355" tvg-logo="https://kino-static.tricolor.ru/media/v2/7a8bf54f-6245-4eaf-85c2-108394642d9f" tvg-rec="0",Триколор Ментовские войны
 #EXTVLCOPT:http-user-agent=TricolorOnline/2.13.0.1536/Android TV
