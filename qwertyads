@@ -41,7 +41,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/2851.png",Дом Кино
-http://tv.lamro.workers.dev/?ID=3188
+http://193.25.8.59:8000/domkino
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/3574.png",Русский Роман
 http://193.25.8.59:8000/rusroman
@@ -62,7 +62,7 @@ http://178.163.2.228:4022/udp/234.0.0.178:2000
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v2a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=veDX78NSNI3S-6X9qC5x5A&e=1769270078&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/1502.png",viju TV1000 русское
-http://cdn.voka.tv/live/5109-req_5k_v5.m3u8
+http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzgwNTAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIxMDIzNzU4IiwicCI6ImIxMDIzNzU4OWY2ZDVmNzUiLCJjIjoiNDgiLCJ0IjoiYjM4NzY1MDM4YWRhOTNkNjg5YmY4NDYyMzE0OWEyNzQiLCJkIjoiNDU2MDc0IiwiciI6IjQ2ODAwNCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84MDUwL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://karnei4.github.io/convert/img/9080.png",viju TV1000 action
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v2a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=1BBK_NS4CaH2d5DEVzNEHg&e=1769270098&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
@@ -139,25 +139,14 @@ https://cors.aivo.ai/livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/start-world.png",Start World
 https://cors.aivo.ai/livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 
-#EXTINF:-1 group-title="Кинозалы" tvg-id="6355" tvg-logo="https://kino-static.tricolor.ru/media/v2/7a8bf54f-6245-4eaf-85c2-108394642d9f" tvg-rec="0",Триколор Ментовские войны
-#EXTVLCOPT:http-user-agent=TricolorOnline/2.13.0.1536/Android TV
-http://allway.space/iptv/users/Mikko/958.m3u8
-
-#EXTINF:-1 group-title="Кинозалы",Ментовские войны
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzg4MDIvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiMTEwNCIsInQiOiI2MzczODNlMzA3NGI4MGZlMDA5MDNhZTNjZDNlODNjMCIsImQiOiI0NDE1NDYiLCJyIjoiNDUzNDM2IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84ODAyL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="CineMan Ментовские войны FHD" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/CineMan Ментовские войны HD.png",Ментовские войны
+http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzg4MDIvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIxMDIzNzU4IiwicCI6ImIxMDIzNzU4OWY2ZDVmNzUiLCJjIjoiMTEwNCIsInQiOiJiMzg3NjUwMzhhZGE5M2Q2ODliZjg0NjIzMTQ5YTI3NCIsImQiOiI0NTYwNzQiLCJyIjoiNDY4MDA0IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84ODAyL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы" tvg-id="CineMan Сваты FHD" tvg-logo="https://epg.iptvx.one/picons/cineman-svaty.png",Сваты
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzg4MjUvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiMTA5OCIsInQiOiI2MzczODNlMzA3NGI4MGZlMDA5MDNhZTNjZDNlODNjMCIsImQiOiI0NDE1NDYiLCJyIjoiNDUzNDM2IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84ODI1L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
+http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzg4MjUvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIxMDIzNzU4IiwicCI6ImIxMDIzNzU4OWY2ZDVmNzUiLCJjIjoiMTA5OCIsInQiOiJiMzg3NjUwMzhhZGE5M2Q2ODliZjg0NjIzMTQ5YTI3NCIsImQiOiI0NTYwNzQiLCJyIjoiNDY4MDA0IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84ODI1L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы" tvg-id="6363" tvg-logo="https://kino-static.tricolor.ru/media/v2/e005bbb9-8ef7-4bbd-8ecc-b006aa7a5415" tvg-rec="0",Триколор Смешарики
-#EXTVLCOPT:http-user-agent=TricolorOnline/2.13.0.1536/Android TV
-http://allway.space/iptv/users/Mikko/966.m3u8
-
-#EXTINF:-1 group-title="Кинозалы" tvg-id="6359" tvg-logo="https://kino-static.tricolor.ru/media/v2/586f665b-3f92-4677-8283-c62b2fa5e1a1" tvg-rec="0",Триколор Три Богатыря
-#EXTVLCOPT:http-user-agent=TricolorOnline/2.13.0.1536/Android TV
-http://allway.space/iptv/users/Mikko/962.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="6363" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Kernel TV Смешарики HD.png" tvg-rec="0",Смешарики
+http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzkwODEvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIxMDIzNzU4IiwicCI6ImIxMDIzNzU4OWY2ZDVmNzUiLCJjIjoiMTYwMSIsInQiOiJiMzg3NjUwMzhhZGE5M2Q2ODliZjg0NjIzMTQ5YTI3NCIsImQiOiI0NTYwNzQiLCJyIjoiNDY4MDA0IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi85MDgxL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://karnei4.github.io/convert/img/5013.png",Карусель
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -182,7 +171,7 @@ http://tv.lamro.workers.dev/?ID=4882
 https://flussonic.salomtv.uz/Detskiy/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://yootv.online/icons/4299.png",О!
-http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzg2NjQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIwZDhkODM3IiwicCI6ImIwZDhkODM3N2IzM2VmNTQiLCJjIjoiNDE3IiwidCI6IjYzNzM4M2UzMDc0YjgwZmUwMDkwM2FlM2NkM2U4M2MwIiwiZCI6IjQ0MTU0NiIsInIiOiI0NTM0MzYiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84NjY0L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
+http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzg2NjQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImIxMDIzNzU4IiwicCI6ImIxMDIzNzU4OWY2ZDVmNzUiLCJjIjoiNDE3IiwidCI6ImIzODc2NTAzOGFkYTkzZDY4OWJmODQ2MjMxNDlhMjc0IiwiZCI6IjQ1NjA3NCIsInIiOiI0NjgwMDQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84NjY0L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://karnei4.github.io/convert/img/8805.png",Музыка Первого
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Muz_Perv
